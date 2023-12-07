@@ -1,3 +1,12 @@
+body {
+  margin-right: 5em; /* Adjust the margin as needed */
+  margin-left: 5em; /* Adjust the margin as needed */
+  padding: 1.5em;
+  /*background-color: #f4f4f4;*/
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+
 body { font-family: Verdana, sans-serif; }
 
 h1 { font-family: Georgia, serif; }
