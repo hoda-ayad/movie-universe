@@ -1,0 +1,819 @@
+i,Title,Year,Rating,Branch,Original?
+0,Snow White and the Seven Dwarfs,1937,G,Standard,A
+1,Pinocchio,1940,G,Standard,A
+2,Fantasia,1940,G,Standard,A
+3,The Reluctant Dragon,1941,NaN,Standard,O
+4,Dumbo,1941,G,Standard,A
+5,Bambi,1942,G,Standard,A
+6,Saludos Amigos,1943,NaN,Standard,O
+7,Victory Through Air Power,1943,NaN,Standard,A
+8,The Three Caballeros,1945,G,Standard,O
+9,Make Mine Music,1946,NaN,Standard,N
+10,Song of the South,1946,G,Standard,A
+11,Fun and Fancy Free,1947,NaN,Standard,A
+12,Melody Time,1948,NaN,Standard,N
+13,So Dear to My Heart,1949,G,Standard,A
+14,The Adventures of Ichabod and Mr. Toad,1949,G,Standard,A
+15,Cinderella,1950,G,Standard,A
+16,Treasure Island,1950,PG,Standard,A
+17,Alice in Wonderland,1951,G,Standard,A
+18,The Story of Robin Hood and His Merrie Men,1952,PG,Standard,A
+19,Peter Pan,1953,G,Standard,A
+20,The Sword and the Rose,1953,PG,Standard,A
+21,The Living Desert,1953,NaN,Standard,N
+22,"Rob Roy, the Highland Rogue",1954,NaN,Standard,A*
+23,The Vanishing Prairie,1954,NaN,Standard,N
+24,"20,000 Leagues Under the Sea",1954,G,Standard,A
+25,"Davy Crockett, King of the Wild Frontier",1955,PG,Standard,A
+26,Lady and the Tramp,1955,G,Standard,A
+27,The African Lion,1955,NaN,Standard,N
+28,The Littlest Outlaw,1955,NaN,Standard,O
+29,The Great Locomotive Chase,1956,NaN,Standard,A*
+30,Davy Crockett and the River Pirates,1956,NaN,Standard,AS
+31,Secrets of Life,1956,NaN,Standard,N
+32,Westward Ho the Wagons!,1956,NaN,Standard,A
+33,Johnny Tremain,1957,NaN,Standard,A
+34,Perri,1957,G,Standard,A
+35,Old Yeller,1957,G,Standard,A
+36,The Light in the Forest,1958,NaN,Standard,A
+37,White Wilderness,1958,NaN,Standard,N
+38,Tonka,1958,NaN,Standard,A
+39,Sleeping Beauty,1959,G,Standard,A
+40,The Shaggy Dog,1959,G,Standard,A
+41,Darby O’Gill and the Little People,1959,G,Standard,A
+42,Third Man on the Mountain,1959,G,Standard,A
+43,"Toby Tyler, or Ten Weeks with a Circus",1960,G,Standard,A
+44,Kidnapped,1960,NaN,Standard,A
+45,Pollyanna,1960,G,Standard,A
+46,The Sign of Zorro,1960,NaN,Standard,A
+47,Jungle Cat,1960,NaN,Standard,N
+48,Ten Who Dared,1960,NaN,Standard,A*
+49,Swiss Family Robinson,1960,G,Standard,A
+50,One Hundred and One Dalmatians,1961,G,Standard,A
+51,The Absent-Minded Professor,1961,G,Standard,O
+52,The Parent Trap,1961,NaN,Standard,A
+53,"Nikki, Wild Dog of the North",1961,G,Standard,A
+54,Greyfriars Bobby,1961,NaN,Standard,A
+55,Babes in Toyland,1961,NaN,Standard,A
+56,Moon Pilot,1962,NaN,Standard,A
+57,Bon Voyage,1962,NaN,Standard,A
+58,Big Red,1962,NaN,Standard,A
+59,Almost Angels,1962,NaN,Standard,O
+60,The Legend of Lobo,1962,G,Standard,A
+61,In Search of the Castaways,1962,G,Standard,A
+62,Son of Flubber,1963,G,Standard,AS
+63,Miracle of the White Stallions,1963,NaN,Standard,A
+64,Savage Sam,1963,NaN,Standard,A
+65,Summer Magic,1963,NaN,Standard,A
+66,The Incredible Journey,1963,G,Standard,A
+67,The Sword in the Stone,1963,G,Standard,A
+68,The Three Lives of Thomasina,1963,PG,Standard,A
+69,The Misadventures of Merlin Jones,1964,G,Standard,O
+70,A Tiger Walks,1964,NaN,Standard,A
+71,The Moon-Spinners,1964,PG,Standard,A
+72,Mary Poppins,1964,G,Standard,A
+73,Emil and the Detectives,1964,NaN,Standard,A
+74,Those Calloways,1965,PG,Standard,A
+75,The Monkey’s Uncle,1965,NaN,Standard,S
+76,That Darn Cat!,1965,G,Standard,A
+77,The Ugly Dachshund,1966,NaN,Standard,A
+78,Lt. Robin Crusoe U.S.N.,1966,G,Standard,A
+79,The Fighting Prince of Donegal,1966,NaN,Standard,A
+80,"Follow Me, Boys!",1966,G,Standard,A
+81,"Monkeys, Go Home!",1967,NaN,Standard,O
+82,The Adventures of Bullwhip Griffin,1967,NaN,Standard,A
+83,The Happiest Millionaire,1967,G,Standard,A*
+84,The Gnome-Mobile,1967,G,Standard,A
+85,The Jungle Book,1967,G,Standard,A
+86,"Charlie, The Lonesome Cougar",1967,NaN,Standard,O
+87,Blackbeard’s Ghost,1968,G,Standard,A
+88,"The One and Only, Genuine, Original Family Band",1968,NaN,Standard,A*
+89,Never a Dull Moment,1968,G,Standard,A
+90,The Horse in the Gray Flannel Suit,1968,NaN,Standard,A
+91,The Love Bug,1969,G,Standard,A
+92,Smith!,1969,NaN,Standard,A
+93,Rascal,1969,NaN,Standard,A
+94,The Computer Wore Tennis Shoes,1969,NaN,Standard,S
+95,King of the Grizzlies,1970,G,Standard,A
+96,The Boatniks,1970,G,Standard,O
+97,The Aristocats,1970,G,Standard,A
+98,The Wild Country,1971,G,Standard,A
+99,The Barefoot Executive,1971,G,Standard,O
+100,Scandalous John,1971,G,Standard,O
+101,"The $1,000,000 Duck",1971,G,Standard,A
+102,Bedknobs and Broomsticks,1971,G,Standard,A
+103,The Biscuit Eater,1972,G,Standard,A
+104,Napoleon and Samantha,1972,G,Standard,O
+105,"Now You See Him, Now You Don’t",1972,G,Standard,S
+106,"Run, Cougar, Run",1972,G,Standard,A
+107,Snowball Express,1972,G,Standard,O
+108,The World’s Greatest Athlete,1973,G,Standard,O
+109,Charley and the Angel,1973,G,Standard,A
+110,One Little Indian,1973,G,Standard,O
+111,Robin Hood,1973,G,Standard,A
+112,Superdad,1973,G,Standard,O
+113,Herbie Rides Again,1974,G,Standard,S
+114,The Bears and I,1974,G,Standard,O
+115,The Castaway Cowboy,1974,G,Standard,O
+116,The Island at the Top of the World,1974,G,Standard,O
+117,The Strongest Man in the World,1975,G,Standard,A
+118,Escape to Witch Mountain,1975,G,Standard,A
+119,The Apple Dumpling Gang,1975,G,Standard,A
+120,One of Our Dinosaurs is Missing,1975,G,Standard,A
+121,The Best of Walt Disney’s True-Life Adventures,1975,G,Standard,N
+122,Ride a Wild Pony,1976,G,Standard,A
+123,"No Deposit, No Return",1976,G,Standard,O
+124,Gus,1976,G,Standard,O
+125,Treasure of Matecumbe,1976,G,Standard,A
+126,The Shaggy D.A.,1976,G,Standard,AS
+127,Freaky Friday,1977,G,Standard,A
+128,The Littlest Horse Thieves,1977,G,Standard,O
+129,The Many Adventures of Winnie the Pooh,1977,G,Standard,A
+130,The Rescuers,1977,G,Standard,A
+131,Herbie Goes to Monte Carlo,1977,G,Standard,AS
+132,Pete’s Dragon,1977,G,Standard,A*
+133,Candleshoe,1978,G,Standard,O
+134,Return from Witch Mountain,1978,G,Standard,AS
+135,The Cat from Outer Space,1978,G,Standard,O
+136,Hot Lead and Cold Feet,1978,G,Standard,O
+137,The North Avenue Irregulars,1979,G,Standard,O
+138,The Apple Dumpling Gang Rides Again,1979,G,Standard,AS
+139,Unidentified Flying Oddball,1979,G,Standard,A
+140,The Black Hole,1979,PG,Standard,O
+141,Midnight Madness,1980,PG,Standard,O
+142,The Last Flight of Noah’s Ark,1980,G,Standard,A
+143,Herbie Goes Bananas,1980,G,Standard,AS
+144,The Devil and Max Devlin,1981,PG,Standard,O
+145,Amy,1981,G,Standard,O
+146,The Fox and the Hound,1981,G,Standard,A
+147,Condorman,1981,PG,Standard,O
+148,The Watcher in the Woods,1981,PG,Standard,A
+149,Night Crossing,1982,PG,Standard,A*
+150,Tron,1982,PG,Standard,O
+151,Tex,1982,PG,Standard,A
+152,Trenchcoat,1983,PG,Standard,O
+153,Something Wicked This Way Comes,1983,PG,Standard,A
+154,Never Cry Wolf,1983,PG,Standard,A
+155,Splash,1984,PG,Touchstone,
+156,Tiger Town,1984,G,Standard,A*
+157,Country,1984,PG,Touchstone,
+158,Baby...Secret of the Lost Legend,1985,PG,Touchstone,
+159,Return to Oz,1985,PG,Standard,AS
+160,The Black Cauldron,1985,PG,Standard,A
+161,My Science Project,1985,PG,Touchstone,
+162,The Journey of Natty Gann,1985,PG,Standard,O
+163,One Magic Christmas,1985,G,Standard,O
+164,Down and Out in Beverly Hills,1986,R,Touchstone,
+165,Off Beat,1986,R,Touchstone,
+166,Ruthless People,1986,R,Touchstone,
+167,The Great Mouse Detective,1986,G,Standard,A
+168,Flight of the Navigator,1986,PG,Standard,O
+169,Tough Guys,1986,PG,Touchstone,
+170,The Color of Money,1986,R,Touchstone,
+171,Outrageous Fortune,1987,R,Touchstone,
+172,Tin Men,1987,R,Touchstone,
+173,Ernest Goes to Camp,1987,PG,Touchstone,
+174,Benji the Hunted,1987,G,Standard,S
+175,Adventures in Babysitting,1987,PG-13,Touchstone,
+176,Stakeout,1987,R,Touchstone,
+177,Can’t Buy Me Love,1987,PG-13,Touchstone,
+178,Hello Again,1987,PG,Touchstone,
+179,Three Men and a Baby,1987,PG,Touchstone,
+180,"Good Morning, Vietnam",1987,R,Touchstone,
+181,Shoot to Kill,1988,R,Touchstone,
+182,D.O.A.,1988,R,Touchstone,
+183,Return to Snowy River,1988,PG,Standard,S
+184,Big Business,1988,PG,Touchstone,
+185,Who Framed Roger Rabbit,1988,PG,Touchstone,
+186,Cocktail,1988,R,Touchstone,
+187,The Rescue,1988,PG,Touchstone,
+188,Heartbreak Hotel,1988,PG-13,Touchstone,
+189,The Good Mother,1988,R,Touchstone,
+190,Ernest Saves Christmas,1988,PG,Touchstone,
+191,Oliver & Company,1988,G,Standard,A
+192,Beaches,1988,PG-13,Touchstone,
+193,Three Fugitives,1989,PG-13,Touchstone,
+194,New York Stories,1989,PG,Touchstone,
+195,Disorganized Crime,1989,R,Touchstone,
+196,Dead Poets Society,1989,PG,Touchstone,
+197,"Honey, I Shrunk the Kids",1989,PG,Standard,O
+198,Turner & Hooch,1989,PG,Touchstone,
+199,Cheetah,1989,G,Standard,A
+200,An Innocent Man,1989,R,Touchstone,
+201,Gross Anatomy,1989,PG-13,Touchstone,
+202,The Little Mermaid,1989,G,Standard,A
+203,Blaze,1989,R,Touchstone,
+204,Stella,1990,PG-13,Touchstone,
+205,Where the Heart Is,1990,R,Touchstone,
+206,Pretty Woman,1990,R,Touchstone,
+207,Ernest Goes to Jail,1990,PG,Touchstone,
+208,Spaced Invaders,1990,PG,Touchstone,
+209,Fire Birds,1990,PG-13,Touchstone,
+210,Dick Tracy,1990,PG,Touchstone,
+211,Betsy’s Wedding,1990,R,Touchstone,
+212,Arachnophobia,1990,PG-13,Hollywood Pictures,
+213,"Ducktales: the Movie, Treasure of the Lost Lamp",1990,G,Disney Movietoons,
+214,Taking Care of Business,1990,R,Hollywood Pictures,
+215,Mr. Destiny,1990,PG-13,Touchstone,
+216,The Rescuers Down Under,1990,G,Standard,AS
+217,Three Men and a Little Lady,1990,PG,Touchstone,
+218,Green Card,1990,PG-13,Touchstone,
+219,White Fang,1991,PG,Standard,A
+220,Run,1991,R,Hollywood Pictures,
+221,Scenes from a Mall,1991,R,Touchstone,
+222,Shipwrecked,1991,PG,Standard,A
+223,The Marrying Man,1991,R,Hollywood Pictures,
+224,Oscar,1991,PG,Touchstone,
+225,One Good Cop,1991,R,Hollywood Pictures,
+226,What About Bob?,1991,PG,Touchstone,
+227,Wild Hearts Can’t Be Broken,1991,G,Standard,A
+228,The Rocketeer,1991,PG,Touchstone,A
+229,The Doctor,1991,PG-13,Touchstone,
+230,V. I. Warshawski,1991,R,Hollywood Pictures,
+231,True Identity,1991,R,Touchstone,
+232,Paradise,1991,PG-13,Touchstone,
+233,Deceived,1991,PG-13,Touchstone,
+234,Ernest Scared Stupid,1991,PG,Touchstone,
+235,Billy Bathgate,1991,R,Touchstone,
+236,Beauty and the Beast,1991,G,Standard,A
+237,Father of the Bride,1991,PG,Touchstone,
+238,The Hand That Rocks the Cradle,1992,R,Hollywood Pictures,
+239,Medicine Man,1992,PG-13,Hollywood Pictures,
+240,Blame It On The Bellboy,1992,PG-13,Hollywood Pictures,
+241,Noises Off,1992,PG-13,Touchstone,
+242,Straight Talk,1992,PG,Hollywood Pictures,
+243,Newsies,1992,PG,Standard,A*
+244,Passed Away,1992,PG-13,Hollywood Pictures,
+245,Encino Man,1992,PG,Hollywood Pictures,
+246,Sister Act,1992,PG,Touchstone,
+247,"Honey, I Blew Up the Kid",1992,PG,Standard,S
+248,A Stranger Among Us,1992,PG-13,Hollywood Pictures,
+249,3 Ninjas,1992,PG,Touchstone,
+250,The Gun in Betty Lou’s Handbag,1992,PG-13,Touchstone,
+251,Crossing the Bridge,1992,R,Touchstone,
+252,Sarafina!,1992,PG-13,Hollywood Pictures,
+253,Captain Ron,1992,PG-13,Touchstone,
+254,The Mighty Ducks,1992,PG,Standard,O
+255,Consenting Adults,1992,R,Hollywood Pictures,
+256,Aladdin,1992,G,Standard,A
+257,The Distinguished Gentleman,1992,R,Hollywood Pictures,
+258,The Muppet Christmas Carol,1992,G,Standard,A
+259,Alive,1993,R,Touchstone,
+260,Aspen Extreme,1993,PG-13,Hollywood Pictures,
+261,The Cemetery Club,1993,PG-13,Touchstone,
+262,Homeward Bound: The Incredible Journey,1993,G,Standard,R
+263,Swing Kids,1993,PG-13,Hollywood Pictures,
+264,A Far Off Place,1993,PG,Standard,A
+265,Born Yesterday,1993,PG,Hollywood Pictures,
+266,Adventures of Huck Finn,1993,PG,Standard,A
+267,Indian Summer,1993,PG-13,Touchstone,
+268,Bound by Honor,1993,R,Hollywood Pictures,
+269,Super Mario Bros.,1993,PG,Hollywood Pictures,
+270,Guilty as Sin,1993,R,Hollywood Pictures,
+271,Life with Mikey,1993,PG,Touchstone,
+272,What’s Love Got to Do with It,1993,R,Touchstone,
+273,Son-In-Law,1993,PG-13,Hollywood Pictures,
+274,Hocus Pocus,1993,PG,Standard,O
+275,Another Stakeout,1993,PG-13,Touchstone,
+276,My Boyfriend’s Back,1993,PG-13,Touchstone,
+277,Father Hood,1993,PG-13,Hollywood Pictures,
+278,The Joy Luck Club,1993,R,Hollywood Pictures,
+279,Money for Nothing,1993,R,Hollywood Pictures,
+280,The Program,1993,R,Touchstone,
+281,Cool Runnings,1993,PG,Standard,A*
+282,The Nightmare Before Christmas,1993,PG,Touchstone,
+283,The Three Musketeers,1993,PG,Standard,A
+284,Sister Act 2: Back in the Habit,1993,PG,Touchstone,
+285,Tombstone,1993,R,Hollywood Pictures,
+286,Cabin Boy,1994,PG-13,Touchstone,
+287,The Air Up There,1994,PG,Hollywood Pictures,
+288,Iron Will,1994,PG,Standard,A*
+289,My Father the Hero,1994,PG,Touchstone,
+290,Blank Check,1994,PG,Standard,O
+291,Angie,1994,R,Hollywood Pictures,
+292,The Ref,1994,R,Touchstone,
+293,D2: The Mighty Ducks,1994,PG,Standard,S
+294,Holy Matrimony,1994,PG-13,Hollywood Pictures,
+295,White Fang 2: Myth of the White Wolf,1994,PG,Standard,AS
+296,The Inkwell,1994,R,Touchstone,
+297,When a Man Loves a Woman,1994,R,Touchstone,
+298,Renaissance Man,1994,PG-13,Touchstone,
+299,The Lion King,1994,G,Standard,O
+300,I Love Trouble,1994,PG,Touchstone,
+301,Angels in the Outfield,1994,PG,Standard,R
+302,In the Army Now,1994,PG,Hollywood Pictures,
+303,Color of Night,1994,R,Hollywood Pictures,
+304,It's Pat,1994,PG-13,Touchstone,
+305,Camp Nowhere,1994,PG,Hollywood Pictures,
+306,A Simple Twist of Fate,1994,PG-13,Touchstone,
+307,Quiz Show,1994,PG-13,Hollywood,
+308,Terminal Velocity,1994,PG-13,Hollywood Pictures,
+309,Ed Wood,1994,R,Touchstone,
+310,Robert A. Heinlein's The Puppet Masters,1994,R,Hollywood Pictures,
+311,Squanto: A Warrior's Tale,1994,PG,Standard,A*
+312,The Santa Clause,1994,PG,Standard,A*
+313,A Low Down Dirty Shame,1994,R,Hollywood Pictures,
+314,Rudyard Kipling's The Jungle Book,1994,PG,Standard,R
+315,Houseguest,1995,PG,Hollywood Pictures,
+316,Bad Company,1995,R,Touchstone,
+317,Miami Rhapsody,1995,PG-13,Hollywood Pictures,
+318,The Jerky Boys,1995,R,Touchstone,
+319,Heavyweights,1995,PG,Standard,O
+320,Man of the House,1995,PG,Standard,O
+321,Roommates,1995,PG,Hollywood Pictures,
+322,Tall Tale,1995,PG,Standard,O
+323,Funny Bones,1995,R,Hollywood Pictures,
+324,Jefferson in Paris,1995,PG-13,Touchstone,
+325,A Goofy Movie,1995,G,Standard,A
+326,While You Were Sleeping,1995,PG,Hollywood Pictures,
+327,A Pyromaniac's Love Story,1995,PG,Hollywood Pictures,
+328,Crimson Tide,1995,R,Hollywood Pictures,
+329,Mad Love,1995,PG-13,Touchstone,
+330,Pocahontas,1995,G,Standard,A*
+331,Judge Dredd,1995,R,Hollywood Pictures,
+332,Operation Dumbo Drop,1995,PG,Standard,A*
+333,Dangerous Minds,1995,R,Hollywood Pictures,
+334,A Kid in King Arthur's Court,1995,PG,Standard,A
+335,The Tie that Binds,1995,R,Hollywood Pictures,
+336,Unstrung Heroes,1995,PG,Hollywood Pictures,
+337,The Big Green,1995,PG,Standard,O
+338,Dead Presidents,1995,R,Hollywood Pictures,
+339,Feast of July,1995,R,Touchstone,
+340,The Scarlet Letter,1995,R,Hollywood Pictures,
+341,Frank and Ollie,1995,PG,Standard,N
+342,Powder,1995,PG-13,Hollywood Pictures,
+343,Toy Story,1995,G,Pixar,O
+344,"Father of the Bride, Part II",1995,PG,Touchstone,
+345,Nixon,1995,R,Hollywood Pictures,
+346,Tom and Huck,1995,PG,Standard,A
+347,Mr. Holland's Opus,1996,PG,Hollywood Pictures,
+348,White Squall,1996,PG-13,Hollywood Pictures,
+349,Mr. Wrong,1996,PG-13,Touchstone,
+350,Muppet Treasure Island,1996,G,Standard,AS
+351,Before and After,1996,PG-13,Hollywood Pictures,
+352,Up Close and Personal,1996,PG-13,Touchstone,
+353,Homeward Bound II: Lost in San Francisco,1996,G,Standard,AS
+354,Two Much,1996,PG-13,Touchstone,
+355,"Little Indian, Big City",1996,PG,Touchstone,
+356,James and the Giant Peach,1996,PG,Standard,A
+357,Celtic Pride,1996,PG-13,Hollywood Pictures,
+358,Last Dance,1996,R,Touchstone,
+359,Boys,1996,PG-13,Touchstone,
+360,Spy Hard,1996,PG-13,Hollywood Pictures,
+361,Eddie,1996,PG-13,Hollywood Pictures,
+362,The Rock,1996,R,Hollywood Pictures,
+363,The Hunchback of Notre Dame,1996,G,Standard,A
+364,Phenomenon,1996,PG,Touchstone,
+365,Kazaam,1996,PG,Touchstone,
+366,Jack,1996,PG-13,Hollywood Pictures,
+367,First Kid,1966,PG,Standard,O
+368,The Rich Man's Wife,1966,R,Hollywood Pictures,
+369,D3: The Mighty Ducks,1996,PG,Standard,S
+370,The Associate,1996,PG-13,Hollywood Pictures,
+371,Ransom,1996,R,Touchstone,
+372,The War at Home,1996,R,Touchstone,
+373,101 Dalmatians [live action],1996,G,Standard,R
+374,The Preacher's Wife,1996,PG,Touchstone,
+375,Evita,1997,PG,Hollywood Pictures,
+376,Metro,1997,R,Touchstone,
+377,Prefontaine,1997,PG-13,Hollywood Pictures,
+378,Shadow Conspiracy,1997,R,Hollywood Pictures,
+379,That Darn Ca,1997,PG,Standard,R
+380,Jungle 2 Jungle,1997,PG,Standard,O
+381,The Sixth Man,1997,PG-13,Touchstone,
+382,Grosse Pointe Blank,1997,R,Hollywood Pictures,
+383,Romy and Michele's High School Reunion,1997,R,Touchstone,
+384,Gone Fishin',1997,PG,Hollywood Pictures,
+385,Con Air,1997,R,Touchstone,
+386,Hercules,1997,G,Standard,A
+387,George of the Jungle,1997,PG,Standard,A
+388,Nothing to Lose,1997,R,Touchstone,
+389,Air Bud,1997,PG,Standard,O
+390,G.I. Jane,1997,R,Hollywood Pictures,
+391,A Thousand Acres,1997,R,Touchstone,
+392,Washington Square,1997,PG,Hollywood Pictures,
+393,RocketMan,1997,PG,Standard,R
+394,Playing God,1997,R,Touchstone,
+395,Flubber,1997,PG,Standard,R
+396,An American Werewolf in Paris,1997,R,Hollywood Pictures,
+397,Mr. Magoo,1997,PG,Standard,A
+398,Kundun,1998,PG-13,Touchstone,
+,The Wonderful Ice Cream Suit,1998,,Touchstone,
+399,Deep Rising,1998,R,Hollywood Pictures,
+400,Krippendorf’s Tribe,1998,PG-13,Touchstone,
+401,"An Alan Smithee Film: Burn, Hollywood, Burn",1998,R,Hollywood Pictures,
+402,Meet the Deedles,1998,PG,Standard,O
+403,He Got Game,1998,R,Touchstone,
+404,The Horse Whisperer,1998,PG-13,Touchstone,
+405,"Six Days, Seven Nights",1998,PG-13,Touchstone,
+406,Mulan,1998,G,Standard,A*
+407,Armageddon,1998,PG-13,Touchstone,
+408,Jane Austen’s Mafia!,1998,PG-13,Touchstone,
+,The Patriot,1998,NaN,Touchstone,
+,Snake Eyes,1998,NaN,Touchstone,
+409,The Parent Trap,1998,PG,Standard,R
+410,Firelight,1998,R,Hollywood Pictures,
+411,Simon Birch,1998,PG,Hollywood Pictures,
+412,Holy Man,1998,PG,Touchstone,
+413,Beloved,1998,R,Touchstone,
+414,The Waterboy,1998,PG-13,Touchstone,
+415,I’ll Be Home for Christmas,1998,PG,Standard,O
+416,Enemy of the State,1998,R,Touchstone,
+417,A Bug’s Life,1998,G,Pixar,O
+418,Mighty Joe Young,1998,PG,Standard,R
+419,A Civil Action,1999,PG-13,Touchstone,
+420,Rushmore,1999,R,Touchstone,
+421,My Favorite Martian,1999,PG,Standard,A
+422,The Other Sister,1999,PG-13,Touchstone,
+423,Doug’s 1st Movie,1999,G,Standard,A
+424,10 Things I Hate About You,1999,PG-13,Touchstone,
+425,Endurance,1999,G,Standard,N
+426,Instinct,1999,R,Touchstone,
+427,Tarzan,1999,G,Standard,A
+428,Summer of Sam,1999,R,Touchstone,
+429,Inspector Gadget,1999,PG,Standard,A
+430,The Sixth Sense,1999,PG-13,Hollywood,
+431,The 13th Warrior,1999,R,Touchstone,
+432,Breakfast of Champions,1999,R,Hollywood,
+433,Mumford,1999,R,Touchstone,
+,Bringing Out the Dead,1999,,Touchstone,
+434,Mystery Alaska,1999,R,Hollywood,
+435,The Hand Behind the Mouse: The Ub Iwerks Story,1999,G,Standard,N
+436,The Straight Story,1999,G,Standard,A*
+437,The Insider,1999,R,Touchstone,
+438,Toy Story 2,1999,G,Pixar,S
+439,Deuce Bigalow: Male Gigolo,1999,R,Touchstone,
+440,Cradle Will Rock,1999,R,Touchstone,
+441,Bicentennial Man,1999,PG,Touchstone,
+442,Fantasia 2000,2000,G,Standard,AS
+443,Play It to the Bone,2000,R,Touchstone,AS
+,The Next Best Thing,2000,,Touchstone,
+444,Gun Shy,2000,R,Hollywood,O
+445,The Tigger Movie,2000,G,Standard,A
+446,Mission to Mars,2000,PG,Touchstone,A*
+447,Whispers,2000,G,Standard,O
+448,High Fidelity,2000,R,Touchstone,A
+449,Keeping the Faith,2000,PG-13,Touchstone,O
+450,Dinosaur,2000,PG,Standard,O
+451,Shanghai Noon,2000,PG-13,Touchstone,O
+452,Gone in 60 Seconds,2000,PG-13,Touchstone,A
+453,Disney’s The Kid,2000,PG,Standard,O
+454,Coyote Ugly,2000,PG-13,Touchstone,A
+455,The Crew,2000,PG-13,Touchstone,O
+456,Duets,2000,R,Hollywood,O
+457,Remember the Titans,2000,PG,Standard,A*
+458,Playing Mona Lisa,2000,R,Standard,A
+459,Unbreakable,2000,PG-13,Touchstone,O
+460,102 Dalmatians,2000,G,Standard,AS
+461,The Emperor’s New Groove,2000,G,Standard,O
+462,"O Brother, Where Art Thou?",2000,PG-13,Touchstone,A
+463,Double Take,2001,PG-13,Touchstone,A
+464,Recess: School’s Out,2001,G,Standard,A
+465,Just Visiting,2001,PG-13,Hollywood,
+466,Pearl Harbor,2001,PG-13,Touchstone,
+467,Atlantis: The Lost Empire,2001,PG,Standard,O
+468,Crazy/Beautiful,2001,PG-13,Touchstone,
+469,The Princess Diaries,2001,G,Standard,A
+470,Bubble Boy,2001,PG-13,Touchstone,
+471,New Port South,2001,PG-13,Touchstone,
+472,Max Keeble’s Big Move,2001,PG,Standard,O
+473,Corky Romano,2001,PG-13,Touchstone,
+474,High Heels and Low Lifes,2001,R,Touchstone,
+475,"Monsters, Inc.",2001,G,Pixar,O
+476,Out Cold,2001,PG-13,Touchstone,
+477,The Royal Tenenbaums,2001,R,Touchstone,
+478,Snow Dogs,2002,PG,Standard,A
+479,The Count of Monte Cristo,2002,PG-13,Touchstone,
+480,Return to Never Land,2002,G,Standard,AS
+481,Sorority Boys,2002,R,Touchstone,
+482,The Rookie,2002,G,Standard,A*
+483,Big Trouble,2002,PG-13,Touchstone,
+484,"Frank McKlusky, C.I.",2002,PG-13,Touchstone,
+485,ESPN’s Ultimate X,2002,PG,Touchstone,
+486,Bad Company,2002,PG-13,Touchstone,
+487,Lilo & Stitch,2002,PG,Standard,O
+488,Reign of Fire,2002,PG-13,Touchstone,
+489,The Country Bears,2002,G,Standard,A*
+490,Signs,2002,PG-13,Touchstone,
+491,Spirited Away,2002,PG-13,Walt Disney Studios,O
+492,Moonlight Mile,2002,PG-13,Touchstone,
+493,Sweet Home Alabama,2002,PG-13,Touchstone,
+494,Tuck Everlasting,2002,PG,Standard,A
+495,Santa Clause 2,2002,G,Standard,AS
+496,Treasure Planet,2002,PG,Standard,A
+497,The Hot Chick,2002,PG-13,Touchstone,
+,Gangs of New York,2002,,Touchstone,
+498,25th Hour,2002,R,Touchstone,
+499,The Recruit,2003,PG-13,Touchstone,
+500,Shanghai Knights,2003,PG-13,Touchstone,
+501,The Jungle Book 2,2003,G,Standard,AS
+502,Bringing Down the House,2003,PG-13,Touchstone,
+503,Piglet’s Big Movie,2003,G,Standard,AS
+504,Ghosts of the Abyss,2003,G,Standard,N
+505,Holes,2003,PG,Standard,A
+506,The Lizzie McGuire Movie,2003,PG,Standard,A
+507,Finding Nemo,2003,G,Pixar,O
+508,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,Standard,AS
+509,Freaky Friday,2003,PG,Standard,R
+510,Open Range,2003,R,Touchstone,
+511,Hope Springs,2003,PG-13,Touchstone,
+512,Cold Creek Manor,2003,R,Touchstone,
+513,Under the Tuscan Sun,2003,PG-13,Touchstone,
+514,Veronica Guerin,2003,R,Touchstone,
+515,Brother Bear,2003,G,Standard,O
+516,The Haunted Mansion,2003,PG,Standard,A
+517,Calendar Girls,2003,PG-13,Touchstone,
+518,The Young Black Stallion,2003,G,Standard,A
+519,Teacher’s Pet,2004,PG,Standard,A
+520,Miracle,2004,PG,Standard,A*
+521,Confessions of a Teenage Drama Queen,2004,PG,Standard,A
+522,Hidalgo,2004,PG-13,Touchstone,
+523,The Ladykillers,2004,R,Touchstone,
+524,Home on the Range,2004,PG,Standard,O
+525,The Alamo,2004,PG-13,Touchstone,
+526,Sacred Planet,2004,G,Standard,N
+527,Raising Helen,2004,PG-13,Touchstone,
+528,Around the World in 80 Days,2004,PG,Standard,A
+529,America’s Heart & Soul,2004,PG,Standard,N
+530,King Arthur,2004,PG-13,Touchstone,
+531,The Village,2004,PG-13,Touchstone,
+532,The Princess Diaries 2: Royal Engagement,2004,G,Standard,AS
+533,Mr. 3000,2004,PG-13,Touchstone,
+534,The Last Shot,2004,R,Touchstone,
+535,Ladder 49,2004,PG-13,Touchstone,
+536,The Incredibles,2004,PG,Pixar,O
+537,National Treasure,2004,PG,Standard,O
+538,The Life Aquatic with Steve Zissou,2004,R,Touchstone,
+539,Aliens of the Deep,2005,G,Standard,N
+540,Pooh’s Heffalump Movie,2005,G,Standard,A
+541,The Pacifier,2005,PG,Standard,O
+542,Ice Princess,2005,G,Standard,O
+543,A Lot Like Love,2005,PG-13,Touchstone,
+544,The Hitchhiker’s Guide to the Galaxy,2005,PG,Touchstone,
+545,Howl’s Moving Castle,2005,PG,Walt Disney Studios,A
+546,Herbie: Fully Loaded,2005,G,Standard,AS
+547,Dark Water,2005,PG-13,Touchstone,
+548,Sky High,2005,PG,Walt Disney Studios,O
+549,Valiant,2005,G,Standard,A
+550,Flightplan,2005,NaN,Touchstone,O
+551,The Greatest Game Ever Played,2005,PG,Standard,A
+552,Shopgirl,2005,R,Touchstone,
+553,Chicken Little,2005,G,Standard,A
+554,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,Standard,A
+555,Casanova,2005,Touchstone,Standard,A*
+556,Glory Road,2006,PG,Standard,A*
+557,Annapolis,2006,PG-13,Touchstone,
+558,Roving Mars,2006,G,Standard,N
+559,Eight Below,2006,PG,Standard,R
+560,The Shaggy Dog,2006,PG,Standard,R
+561,Stay Alive,2006,PG-13,Hollywood Pictures,
+562,The Wild,2006,G,Standard,O
+563,Stick It,2006,PG-13,Touchstone,
+564,Goal! The Dream Begins,2006,PG,Touchstone,
+565,Cars,2006,G,Pixar,O
+566,Pirates of the Caribbean: Dead Man’s Chest,2006,PG-13,Standard,AS
+567,Step Up,2006,PG-13,Touchstone,
+568,Invincible,2006,PG,Standard,A*
+569,The Guardian,2006,PG-13,Touchstone,
+570,The Prestige,2006,PG-13,Touchstone,
+571,The Santa Clause 3: The Escape Clause,2006,G,Standard,AS
+572,Déjà Vu,2006,PG-13,Touchstone,
+573,Apocalypto,2006,R,Touchstone,
+574,Primeval,2007,R,Hollywood Pictures,
+575,Bridge to Terabithia,2007,PG,Standard,A
+576,Wild Hogs,2007,PG-13,Touchstone,
+577,Meet the Robinsons,2007,G,Standard,A
+578,The Invisible,2007,PG-13,Hollywood Pictures,
+579,Pirates of the Caribbean: At World’s End,2007,PG-13,Standard,AS
+580,Ratatouille,2007,G,Pixar,O
+581,The Secret of the Magic Gourd,2007,NR,Standard,A
+582,Underdog,2007,PG,Standard,A
+583,The Game Plan,2007,PG,Standard,O
+584,Dan in Real Life,2007,PG-13,Touchstone,O
+585,Le Premier Cri,2007,NR,Intl,N
+586,Enchanted,2007,PG,Standard,O
+587,National Treasure: Book of Secrets,2007,PG,Standard,S
+588,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,2008,G,Standard,AS
+589,Step Up 2 the Streets,2008,PG-13,Touchstone,S
+590,College Road Trip,2008,G,Standard,O
+591,The Chronicles of Narnia: Prince Caspian,2008,PG,Standard,AS
+592,WALL•E,2008,G,Pixar,O
+593,Swing Vote,2008,PG-13,Touchstone,O
+594,Tinker Bell,2008,G,Standard,A
+595,Miracle at St. Anna,2008,R,Touchstone,A*
+596,Beverly Hills Chihuahua,2008,PG,Standard,O
+597,Morning Light,2008,PG,Standard,A*
+598,High School Musical 3: Senior Year,2008,G,Standard,S
+599,Roadside Romeo,2008,NR,Standard,O
+600,Bolt,2008,PG,Standard,O
+601,Bedtime Stories,2008,PG,Standard,O
+602,Confessions of a Shopaholic,2009,PG,Touchstone,A
+603,Lilly the Witch: The Dragon and the Magic Book,2009,NR,Intl,A
+604,Jonas Brothers: The 3D Concert Experience,2009,G,Standard,N
+605,Race to Witch Mountain,2009,PG,Standard,A
+606,Hannah Montana the Movie,2009,G,Standard,A
+607,Earth,2009,G,Disneynature,N
+608,Trail of the Panda,2009,NR,Standard,O
+609,The Boys: The Sherman Brothers’ Story,2009,PG,Standard,A*
+610,Up,2009,PG,Pixar,O
+611,The Proposal,2009,PG-13,Touchstone,O
+612,G-Force,2009,PG,Standard,O
+613,Ponyo,2009,G,Standard,A*
+614,X-Games 3D: The Movie,2009,PG,Standard,N
+615,Walt & El Grupo,2009,PG,Standard,N
+616,Surrogates,2009,PG-13,Touchstone,A
+617,Tinker Bell and the Lost Treasure,2009,G,Standard,AS
+618,The Book of Masters,2009,NR,Intl,O
+619,Disney’s A Christmas Carol,2009,PG,Standard,A
+620,Old Dogs,2009,PG,Standard,O
+621,The Princess and the Frog,2009,G,Standard,A
+622,When in Rome,2010,PG-13,Touchstone,O
+623,Alice in Wonderland,2010,PG,Standard,A
+624,Waking Sleeping Beauty,2010,PG,Standard,A
+625,The Last Song,2010,PG,Touchstone,A
+626,Oceans,2010,G,Disneynature,N
+627,Prince of Persia: The Sands of Time,2010,PG-13,Standard,A
+628,Toy Story 3,2010,G,Pixar,S
+629,The Sorcerer’s Apprentice,2010,PG,Standard,A
+630,Step Up 3D,2010,PG-13,Touchstone,S
+631,Tales from Earthsea,2010,PG-13,Standard,A
+632,The Switch,2010,PG-13,Miramax,A
+633,Tinker Bell and the Great Fairy Rescue,2010,G,Standard,AS
+634,You Again,2010,PG,Touchstone,O
+635,Secretariat,2010,PG,Standard,A*
+636,Two Times Two Equals Four,2010,NR,Intl,O
+637,Tangled,2010,PG,Standard,A
+638,The Tempest,2010,PG-13,Touchstone/Miramax,A
+639,Tron: Legacy,2010,PG,Standard,AS
+640,Once Upon a Warrior,2011,NR,Intl,O
+641,Gnomeo & Juliet,2011,G,Touchstone,A
+642,Lilly the Witch: The Journey to Mandolan,2011,NR,Intl,A
+643,I Am Number Four,2011,PG-13,Touchstone/DreamWorks,A
+644,Mars Needs Moms,2011,PG,Standard,A
+645,African Cats: Kingdom of Courage,2011,G,Disneynature,N
+646,Zokkomon,2011,NR,Standard,O
+647,Prom,2011,PG,Standard,O
+648,Pirates of the Caribbean: On Stranger Tides,2011,PG-13,Standard,AS
+649,Cars 2,2011,G,Pixar,S
+650,Winnie the Pooh,2011,G,Standard,R
+651,The Help,2011,PG-13,Touchstone/DreamWorks,A
+652,Fright Night,2011,R,Touchstone/DreamWorks,R
+653,Real Steel,2011,PG-13,Touchstone/DreamWorks,A
+654,The Muppets,2011,PG,Standard,A
+655,War Horse,2011,PG-13,Touchstone/DreamWorks,A
+656,The Secret World of Arrietty,2012,G,Standard,A
+657,John Carter,2012,PG-13,Standard,A
+658,Arjun: The Warrior Prince,2012,NR,Standard,A
+659,Chimpanzee,2012,G,Disneynature,N
+660,Marvel’s The Avengers,2012,PG-13,Marvel,A
+661,Brave,2012,PG,Pixar,O
+662,Mad Buddies,2012,NR,Standard,O
+663,People Like Us,2012,PG-13,Touchstone/DreamWorks,O
+664,The Odd Life of Timothy Green,2012,PG,Standard,O
+665,Secret of the Wings,2012,G,Standard,AS
+666,Barfi!,2012,NR,Standard,O
+667,Frankenweenie,2012,PG,Standard,A
+668,Wreck-It Ralph,2012,NaN,Standard,O
+669,Lincoln,2012,Touchstone/DreamWorks,Standard,A*
+670,Oz the Great and Powerful,2013,PG,Standard,AS
+671,Wings of Life,2013,G,Disneynature,N
+672,Iron Man 3,2013,PG-13,Marvel,AS
+673,Monsters University,2013,G,Pixar,S
+674,The Lone Ranger,2013,PG-13,Standard,A
+675,Planes,2013,PG,Standard,S
+676,The Fifth Estate,2013,R,Touchstone/DreamWorks,A*
+677,The Wind Rises,2013,PG-13,Touchstone,A*
+678,Thor: The Dark World,2013,PG-13,Marvel,AS
+679,Delivery Man,2013,PG-13,Touchstone/DreamWorks,R
+680,Frozen,2013,PG,Standard,A
+681,Saving Mr. Banks,2013,PG-13,Standard,A*
+682,Schuks! Your Country Needs You,2013,NR,Touchstone,O
+683,The Pirate Fairy,2014,G,Standard,AS
+684,Need for Speed,2014,PG-13,Touchstone/DreamWorks,A
+685,Muppets Most Wanted,2014,PG,Standard,AS
+686,Captain America: The Winter Soldier,2014,PG-13,Marvel,AS
+687,Bears,2014,G,Disneynature,N
+688,Million Dollar Arm,2014,PG,Standard,A*
+689,Maleficent,2014,PG,Standard,AS
+690,Planes: Fire and Rescue,2014,PG,Standard,S
+691,Guardians of the Galaxy,2014,PG-13,Marvel,A
+692,The Hundred-Foot Journey,2014,PG,Touchstone/DreamWorks,A
+693,Khoobsurat,2014,NR,Standard,A
+694,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,PG,Standard,A
+695,Big Hero 6,2014,PG,Standard,A
+696,Into The Woods,2014,PG,Standard,A
+697,Strange Magic,2015,PG,Touchstone/Lucasfilm,A
+698,Tinker Bell and the Legend of the NeverBeast,2015,G,Standard,AS
+699,"McFarland, USA",2015,PG,Standard,A*
+700,Cinderella,2015,PG,Standard,R
+701,Monkey Kingdom,2015,G,Disneynature,N
+702,Tini: The New Life of Violetta,2015,NR,Intl,A
+703,Avengers: Age of Ultron,2015,PG-13,Marvel,A
+704,Tomorrowland,2015,PG,Standard,O
+705,Inside Out,2015,PG,Pixar,O
+706,ABCD2,2015,NR,Standard,S
+707,Ant-Man,2015,PG-13,Marvel,A
+708,Schuks! Pay Back the Money!,2015,NR,Touchstone,S
+709,Bridge of Spies,2015,PG-13,Touchstone/DreamWorks,A*
+710,The Good Dinosaur,2015,PG,Pixar,O
+711,Star Wars: The Force Awakens,2015,PG-13,Lucasfilm,S
+712,The Finest Hours,2016,PG-13,Standard,A
+713,Zootopia,2016,PG,Standard,O
+714,The Jungle Book,2016,PG,Standard,R
+715,Captain America: Civil War,2016,PG-13,Marvel,A
+716,Alice Through the Looking Glass,2016,PG,Standard,AS
+717,Finding Dory,2016,PG,Pixar,S
+718,The BFG,2016,PG,Standard,A
+719,Pete’s Dragon,2016,PG,Standard,R
+720,The Light Between Oceans,2016,PG-13,Touchstone,A
+721,Queen of Katwe,2016,PG,Standard,A*
+722,Doctor Strange,2016,PG-13,Marvel,A
+723,Moana,2016,PG,Standard,O
+724,Rogue One: A Star Wars Story,2016,PG-13,Lucasfilm,S
+725,Dangal,2017,Disney India,Standard,A*
+726,Beauty and the Beast,2017,PG,Standard,R
+727,Born in China,2017,G,Disneynature,N
+728,"Guardians of the Galaxy, Vol. 2",2017,PG-13,Marvel,A
+729,Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,Standard,AS
+730,Cars 3,2017,G,Pixar,S
+731,Jagga Jasoos,2017,Disney India,Standard,O
+732,The Last Warrior,2017,NR,Intl,O
+733,Thor: Ragnarok,2017,PG-13,Marvel,A
+734,Coco,2017,PG,Pixar,O
+735,Star Wars: The Last Jedi,2017,PG-13,Lucasfilm,S
+736,Black Panther,2018,PG-13,Marvel,A
+737,A Wrinkle in Time,2018,PG,Standard,A
+738,Avengers: Infinity War,2018,PG-13,Marvel,AS
+739,Solo: A Star Wars Story,2018,PG-13,Lucasfilm,S
+740,Incredibles 2,2018,PG,Pixar,S
+741,Ant-Man and The Wasp,2018,PG_13,Marvel,A
+742,Christopher Robin,2018,PG,Standard,R
+743,The Nutcracker and the Four Realms,2018,PG,Standard,A
+744,Ralph Breaks the Internet,2018,PG,Standard,S
+745,Mary Poppins Returns,2018,PG,Standard,AS
+746,Captain Marvel,2019,PG-13,Marvel,A
+747,Dumbo,2019,PG,Standard,R
+748,Penguins,2019,G,Disneynature,N
+749,Avengers: Endgame,2019,PG-13,Marvel,A
+750,Aladdin,2019,PG,Standard,R
+751,Toy Story 4,2019,G,Pixar,S
+752,The Lion King,2019,PG,Standard,R
+753,Maleficent: Mistress of Evil,2019,PG,Standard,AS
+754,Lady and the Tramp,2019,PG,Standard,R
+755,Noelle,2019,G,Standard,A
+756,Frozen 2,2019,PG,Standard,AS
+757,Star Wars: The Rise of Skywalker,2019,PG-13,Standard,S
+758,Togo,2019,PG,Standard,A*
+759,Timmy Failure: Mistakes Were Made,2020,PG,Standard,A
+760,Onward,2020,PG,Pixar,O
+761,Stargirl ,2020,PG,Standard,A
+762,Dolphin Reef,2020,G,Disneynature,N
+763,Elephant,2020,G,Disneynature,N
+764,Artemis Fowl,2020,PG,Standard,A
+765,Hamilton,2020,PG-13,Standard,A*
+766,Magic Camp,2020,PG,Standard,O
+767,The One and Only Ivan,2020,PG,Standard,A
+768,Mulan,2020,PG-13,Standard,R
+769,Godmothered,2020,PG,Standard,O
+770,Safety,2020,PG,Standard,A*
+771,Soul,2020,PG,Pixar,O
+772,The Last Warrior: Root of Evil,2021,NR,Intl,S
+773,Flora & Ulysses,2021,PG,Standard,A
+774,Raya and the Last Dragon,2021,PG,Standard,O
+775,Cruella,2021,PG-13,Standard,AS
+776,Luca,2021,PG,Pixar,O
+777,Black Widow,2021,PG-13,Marvel,A
+778,Jungle Cruise,2021,PG-13,Standard,A*
+779,Shang-Chi and the Legend of the Ten Rings,2021,PG-13,Marvel,A
+780,Eternals,2021,PG-13,Marvel,A
+781,Encanto,2021,PG,Standard,O
+782,Diary of a Wimpy Kid,2021,PG,20th Century Animation,A
+783,The Last Warrior: A Messenger of Darkness,2021,NR,Intl,S
+784,The Ice Age Adventures of Buck Wild,2022,PG,20th Century Animation,S
+785,The Beatles: Get Back – The Rooftop Concert,2022,PG-13,Standard,N
+786,Turning Red,2022,PG,Pixar,O
+787,Cheaper by the Dozen,2022,NaN,20th Century Studios,R
+788,Better Nate Than Ever,2022,PG,Standard,A
+789,Polar Bear,2022,PG,Disneynature,N
+790,Doctor Strange in the Multiverse of Madness,2022,PG-13,Marvel,AS
+791,Chip ’n Dale: Rescue Rangers,2022,PG,Standard,AS
+792,Hollywood Stargirl,2022,PG,Standard,AS
+793,Lightyear,2022,PG,Pixar,AS
+794,Rise,2022,PG,Standard,A*
+795,Thor: Love and Thunder,2022,PG-13,Marvel,AS
+796,Mija,2022,PG-13,Standard,N
+797,Pinocchio,2022,PG,Standard,R
+798,Hocus Pocus 2,2022,PG,Standard,S
+799,Black Panther: Wakanda Forever,2022,PG-13,Marvel,AS
+800,Strange World,2022,PG,Standard,O
+801,Disenchanted,2022,PG,Standard,S
+802,Diary of a Wimpy Kid: Rodrick Rules,2022,PG,Standard,AS
+803,Night at the Museum: Kahmunrah Rises Again,2022,PG,Standard,AS
+804,Ant-Man and the Wasp: Quantumania,2023,PG-13,Marvel,AS
+805,Chang Can Dunk,2023,PG,Standard,O
+806,Peter Pan & Wendy,2023,PG,Standard,R
+807,Guardians of the Galaxy Vol. 3,2023,PG-13,Marvel,AS
+808,The Little Mermaid,2023,PG,Standard,R
+809,Elemental,2023,PG,Pixar,O
+810,Indiana Jones and the Dial of Destiny,2023,PG-13,Lucasfilm,S
+811,Haunted Mansion,2023,PG-13,Standard,R
