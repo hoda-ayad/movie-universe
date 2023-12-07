@@ -1,10 +1,44 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
   <body>
-    <h1>First Analysis</h1>
-    <h2>Description</h2>
-      <p>words and words</p>
+    <h1><center>Prelim Concept - Does Disney Make Anything New Anymore?</center></h1>
+    <h2>Dataset Description</h2>
+      <p>Aggregates movies produced by labels owned by the Walt Disney Company including information about the “originality” of each. The goal is to study the remake phenomenon on a small scale to determine if Disney (and potentially other studios) is actually relying more heavily on established properties than before.
       
-    <iframe src="simp_freq_chart.html" width="100%" height="500" style="border:1px solid black;"> </iframe>
+      This data (see csv) is manually categorized at different levels of originality. </p>
+      
+      <h3>Labeling scheme</h3>
+      <ul>
+        <li>O  = Original</li>
+        <li>A  = Adaptation</li>
+        <li>A* = Adaptation (Debatable)</li>
+        <li>S  = Sequel</li>
+        <li>AS = Sequel of Adaptation</li>
+        <li>R  = Reboot/Remake</li>
+        <li>N  = NonFiction</li>
+      </ul>
+      
+      <p>NOTE: Limited to English-language fiction movies produced by one or more Disney-owned labels during Disney ownership. It will be important to define how much of a role the Disney label needs to have had in joint-produced films. This dataset can be expanded in the future to include other major film studios or TV shows.</p>
+      
+    <h2>Evaluating Pixar and Walt Disney Movies</h2>
+    <p>Currently, Hollywood Pictures and Touchstone movies aren't completely labeled. 
+These visualizations rely on Standard (Walt Disney Pictures) and Pixar, which together represent what a "Disney movie" is usually thought of as. This also excludes recently bought labels like Marvel and Lucasfilm.</p>
+      
+    <iframe src="charts/origin_chart.html" width="100%" height="500" frameBorder="0"> </iframe>
+    <p>This is a lot of info! Here I've simplified the categories by marking labels: A* as A, AS as S, and N as O</p>
+    <iframe src="charts/simp_origin_chart.html" width="100%" height="500" frameBorder="0"> </iframe>
+    <p>Using the same simplified labeling scheme, here we can observe the trend through proportions.</p>
+    <iframe src="charts/simp_freq_chart.html" width="100%" height="500" frameBorder="0"> </iframe>
+    
+    
+    
+    <h2>Investment in Other Labels</h2>
+    <p>To better understand what labels Disney made movies under, we can observe how many movies each one produced over the years.</p>
+    
+    <iframe src="charts/branch_chart.html" width="100%" height="500" frameBorder="0"> </iframe>
   </body>
 </html>
