@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Disney Movie Remakes Dataset
 
 Aggregates movies produced by labels owned by the Walt Disney Company
