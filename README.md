@@ -9,7 +9,7 @@ established properties than before.
 ## Scope
 
 Limited to English-language fiction movies produced by one or more
-Disney-owned labels during Disney ownership^[Walt Disney's current and former film production labels: Walt Disney Animation Studios, Pixar Animation Studios, Marvel Studios, Lucasfilm, 20th Century Studios, Searchlight Pictures, Touchstone Pictures, Hollywood Pictures, Caravan Pictures, Miramax Films, Fox 2000 Pictures, 20th Digital Studio, Skellington Animation, Imagemovers Digital, BlueSky Studios ]. It will be important to
+Disney-owned labels during Disney ownership[^1]. It will be important to
 define how much of a role the Disney label needs to have had in
 joint-produced films. This dataset can be expanded in the future to
 include other major film studios or TV shows.
@@ -22,8 +22,7 @@ include other major film studios or TV shows.
 
 -   Primary Label
 
--   Originality Classification^[O = Original; A = Adaptation; S =
-    Series (if Original); R = Remake; N = Non-Fiction]
+-   Originality Classification[^2]
 
 -   Revenue Measure (Options: Box Office Performance or Profit)
 
@@ -41,3 +40,6 @@ include other major film studios or TV shows.
 
 -   Manual entry and research from [insert a source better than
     Wikipedia] to determine originality based on predetermined criteria
+
+    [^1]: Walt Disney's current and former film production labels: Walt Disney Animation Studios, Pixar Animation Studios, Marvel Studios, Lucasfilm, 20th Century Studios, Searchlight Pictures, Touchstone Pictures, Hollywood Pictures, Caravan Pictures, Miramax Films, Fox 2000 Pictures, 20th Digital Studio, Skellington Animation, Imagemovers Digital, BlueSky Studios
+    [^2]: O = Original; A = Adaptation; S = Series (if Original); R = Remake; N = Non-Fiction
