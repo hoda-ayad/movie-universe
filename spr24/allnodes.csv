@@ -1,0 +1,232 @@
+ID,Item,Wiki_Link,Image_Link,Medium,Year,Original,Adaptation_Type,Based on Real Life?,BoxOff_Rank,Domestic_Gross,Worldwide_Gross,Production_Budget,Profit
+ID-000,-,,,,,,,,,,,,
+ID-001,Barbie,https://en.wikipedia.org/wiki/Barbie_(film),https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg,Movie,2023,0,Adaptation,0,1,636225983.00,1445638421.00,145000000.00,1300638421.00
+ID-002,Barbie Doll Line,https://en.wikipedia.org/wiki/Barbie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/1024px-Barbie_Logo.svg.png,Toy,1959,1,,0,1,,,,
+ID-003,The Super Mario Bros. Movie,https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie,https://upload.wikimedia.org/wikipedia/en/thumb/4/44/The_Super_Mario_Bros._Movie_poster.jpg/220px-The_Super_Mario_Bros._Movie_poster.jpg,Movie,2023,0,Adaptation,0,2,574934330.00,1362000000.00,100000000.00,1262000000.00
+ID-004,Super Mario Bros,https://en.wikipedia.org/wiki/Super_Mario_Bros.,https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png,Game,1985,0,,0,2,,,,
+ID-005,Mario Bros,https://en.wikipedia.org/wiki/Mario_Bros.,,Game,1983,0,,0,2,,,,
+ID-006,Donkey Kong,https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game),,Game,1981,1,,0,2,,,,
+ID-007,Spider-Man: Across the Spider-Verse,https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse,,Movie,2023,0,Sequel,0,3,381311319.00,690615475.00,100000000.00,590615475.00
+ID-008,Spider-Man: Into the Spider-Verse,https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse,,Movie,2018,0,Adaptation,0,3,190241310.00,384298736.00,90000000.00,294298736.00
+ID-009,Spider-Verse Series,https://en.wikipedia.org/wiki/Spider-Verse,,Comic,2014,0,,0,3,,,,
+ID-010,Ultimate Comics: Spider-Man Series,https://en.wikipedia.org/wiki/Ultimate_Comics:_Spider-Man,,Comic,2011,0,,0,3,,,,
+ID-011,Ultimate Spider-Man Series,https://en.wikipedia.org/wiki/Ultimate_Spider-Man,,Comic,2000,0,,0,3,,,,
+ID-012,The Amazing Spider-Man Series,https://en.wikipedia.org/wiki/The_Amazing_Spider-Man,,Comic,1963,1,,0,3,,,,
+ID-013,Guardians of the Galaxy Vol 3,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3,,Movie,2023,0,Sequel,0,4,358995815.00,845600000.00,250000000.00,595600000.00
+ID-014,Guardians of the Galaxy Vol 2,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2,,Movie,2017,0,Sequel,0,4,389813101.00,863756051.00,200000000.00,663756051.00
+ID-015,Guardians of the Galaxy,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film),,Movie,2014,0,Adaptation,0,4,439631547.00,772776600.00,170000000.00,602776600.00
+ID-016,Guardians of the Galaxy (2008) Series,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(2008_team),,Comic,2008,0,,0,4,,,,
+ID-017,Guardians of the Galaxy (1990) Series,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(1969_team),,Comic,1990,1,,0,4,,,,
+ID-018,Annihilation Conquest (2007) Series,https://en.wikipedia.org/wiki/Annihilation:_Conquest,,Comic,2007,0,,0,4,,,,
+ID-019,Annihilation (2006) Series,https://en.wikipedia.org/wiki/Annihilation_(comics),,Comic,2006,0,,0,4,,,,
+ID-020,Marvel Cinematic Universe,https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe,,CU,-1,0,,0,4,,,,
+ID-021,Oppenheimer,https://en.wikipedia.org/wiki/Oppenheimer_(film),,Movie,2023,0,,1,5,326101370.00,952000000.00,100000000.00,852000000.00
+ID-022,Based on the life of J. Robert Oppenheimer,https://en.wikipedia.org/wiki/J._Robert_Oppenheimer,,Life,1904,1,,1,5,,,,
+ID-023,The Little Mermaid,https://en.wikipedia.org/wiki/The_Little_Mermaid_(2023_film),,Movie,2023,0,Reimagining,0,6,298172056.00,569600000.00,297000000.00,272600000.00
+ID-024,The Little Mermaid (1989),https://en.wikipedia.org/wiki/The_Little_Mermaid_(1989_film),,Movie,1989,0,Adaptation,0,6,111543479.00,211343479.00,40000000.00,171343479.00
+ID-025,The Little Mermaid Fairytale,https://en.wikipedia.org/wiki/The_Little_Mermaid,,Fairytale,1837,1,,0,6,,,,
+ID-026,Avatar: The Way of Water,https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water,,Movie,2022,0,Sequel,0,7,283067859.00,2320250281.00,460000000.00,1860250281.00
+ID-027,Avatar,https://en.wikipedia.org/wiki/Avatar_(2009_film),,Movie,2009,1,,0,7,785221649.00,2923706026.00,237000000.00,2686706026.00
+ID-028,Ant-Man and the Wasp: Quantumania,https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania,,Movie,2023,0,Sequel,0,8,214504909.00,476071180.00,200000000.00,276071180.00
+ID-029,Ant-Man and the Wasp,https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp,,Movie,2018,0,Sequel,0,8,216648740.00,622674139.00,140000000.00,482674139.00
+ID-030,Ant-Man,https://en.wikipedia.org/wiki/Ant-Man_(film),,Movie,2015,0,Adaptation,0,8,180202163.00,519311965.00,130000000.00,389311965.00
+ID-031,Marvel Premiere #47,https://en.wikipedia.org/wiki/Marvel_Premiere,,Comic,1979,1,,0,8,,,,
+ID-032,John Wick: Chapter 4,https://en.wikipedia.org/wiki/John_Wick:_Chapter_4,,Movie,2023,0,Sequel,0,9,187131806.00,440157245.00,90000000.00,350157245.00
+ID-033,John-Wick: Chapter 3,https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_%E2%80%93_Parabellum,,Movie,2019,0,Sequel,0,9,43037835.00,326709727.00,55000000.00,271709727.00
+ID-034,John-Wick: Chapter 2,https://en.wikipedia.org/wiki/John_Wick:_Chapter_2,,Movie,2017,0,Sequel,0,9,92029184.00,171539887.00,40000000.00,131539887.00
+ID-035,John Wick,https://en.wikipedia.org/wiki/John_Wick,,Movie,2014,1,,0,9,171015687.00,88761661.00,20000000.00,68761661.00
+ID-036,Sound of Freedom,https://en.wikipedia.org/wiki/Sound_of_Freedom_(film),,Movie,2023,0,,1,10,184178046.00,250600000.00,14500000.00,236100000.00
+ID-037,Based on the life of Tim Ballard,https://en.wikipedia.org/wiki/Tim_Ballard,,Life,1971,1,,1,10,,,,
+ID-038,TAYLOR SWIFT | THE ERAS TOUR,https://en.wikipedia.org/wiki/Taylor_Swift:_The_Eras_Tour,,Movie,2023,1,,1,11,180560779.00,261656269.00,15000000.00,246656269.00
+ID-039,Indiana Jones and the Dial of Destiny,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny,,Movie,2023,0,Sequel,0,12,174480468.00,383900000.00,294700000.00,89200000.00
+ID-040,Indiana Jones and the Kingdom of the Crystal Skull,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull,,Movie,2008,0,Sequel,0,12,317101119.00,786636033.00,185000000.00,601636033.00
+ID-041,Indiana Jones and the Last Crusade,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade,,Movie,1989,0,Sequel,0,12,197171806.00,474171806.00,48000000.00,426171806.00
+ID-042,Indiana Jones and the Temple of Doom,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom,,Movie,1984,0,Sequel,0,12,179870271.00,333000000.00,28000000.00,305000000.00
+ID-043,Raiders of the Lost Ark,https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark,,Movie,1981,1,,0,12,248159971.00,389925971.00,18000000.00,371925971.00
+ID-044,Mission: Impossible Dead Reckoning,https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One,,Movie,2023,0,Sequel,0,13,172640980.00,567500000.00,291000000.00,276500000.00
+ID-045,Mission: Impossible - Fallout,https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout,,Movie,2018,0,Sequel,0,13,220159104.00,791700000.00,178000000.00,613700000.00
+ID-046,Mission: Impossible - Rogue Nation,https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation,,Movie,2015,0,Sequel,0,13,195042377.00,682700000.00,150000000.00,532700000.00
+ID-047,Mission: Impossible - Ghost Protocol,https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Ghost_Protocol,,Movie,2011,0,Sequel,0,13,209397903.00,694700000.00,145000000.00,549700000.00
+ID-048,Mission: Impossible III,https://en.wikipedia.org/wiki/Mission:_Impossible_III,,Movie,2006,0,Sequel,0,13,134029801.00,398500000.00,150000000.00,248500000.00
+ID-049,Mission: Impossible 2,https://en.wikipedia.org/wiki/Mission:_Impossible_2,,Movie,2000,0,Sequel,0,13,215409889.00,546400000.00,125000000.00,421400000.00
+ID-050,Mission: Impossible,https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout,,Movie,1996,0,Adaptation,0,13,180981856.00,457700000.00,80000000.00,377700000.00
+ID-051,Mission: Impossible (1988) TV Series,https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series),,TV,1988,0,,0,13,,,,
+ID-052,Mission: Impossible (1966) TV Series,https://en.wikipedia.org/wiki/Mission:_Impossible_(1966_TV_series),,TV,1966,1,,0,13,,,,
+ID-053,The Hunger Games: The Ballad of Songbirds and Snakes,https://en.wikipedia.org/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes,,Movie,2023,0,Sequel,0,14,159719625.00,337134868.00,100000000.00,237134868.00
+ID-054,The Hunger Games: Mockingjay Part 2,https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2,,Movie,2015,0,Sequel,0,14,281723902.00,653428261.00,160000000.00,493428261.00
+ID-055,The Hunger Games: Mockingjay Part 1,https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_1,,Movie,2014,0,Sequel,0,14,337135885.00,755356711.00,125000000.00,630356711.00
+ID-056,The Hunger Games: Catching Fire,https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire,,Movie,2013,0,Sequel,0,14,424668047.00,865011746.00,130000000.00,735011746.00
+ID-057,The Hunger Games,https://en.wikipedia.org/wiki/The_Hunger_Games_(film),,Movie,2012,0,Adaptation,0,14,408010692.00,694394724.00,75000000.00,619394724.00
+ID-058,The Hunger Games Book Series,https://en.wikipedia.org/wiki/The_Hunger_Games,,Book,2008,1,,0,14,,,,
+ID-059,The Ballad of Songbirds and Snakes Novel,https://en.wikipedia.org/wiki/The_Ballad_of_Songbirds_and_Snakes,,Book,2020,0,,0,14,,,,
+ID-060,Transformers: Rise of the Beasts,https://en.wikipedia.org/wiki/Transformers:_Rise_of_the_Beasts,,Movie,2023,0,Sequel,0,15,157341749.00,439000000.00,195000000.00,244000000.00
+ID-061,Bumblebee,https://en.wikipedia.org/wiki/Bumblebee_(film),,Movie,2018,0,Sequel,0,15,127195589.00,467989645.00,135000000.00,332989645.00
+ID-062,Transformers,https://en.wikipedia.org/wiki/Transformers_(film),,Movie,2007,0,Adaptation,0,15,319246193.00,709700000.00,150000000.00,559700000.00
+ID-063,Transformers: Revenge of the Fallen,https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen,,Movie,2009,0,Sequel,0,15,402111870.00,836300000.00,200000000.00,636300000.00
+ID-064,Transformers: Dark of the Moon,https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon,,Movie,2011,0,Sequel,0,15,352390543.00,1123800000.00,195000000.00,928800000.00
+ID-065,Transformers: Age of Extinction,https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction,,Movie,2014,0,Sequel,0,15,245439076.00,1104100000.00,210000000.00,894100000.00
+ID-066,Transformers: The Last Knight,https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight,,Movie,2017,0,Sequel,0,15,130168683.00,605400000.00,217000000.00,388400000.00
+ID-067,Beast Wars: Transformers TV Series,https://en.wikipedia.org/wiki/Beast_Wars:_Transformers,,TV,1996,0,,0,15,,,,
+ID-068,The Transformers (1984) TV Series,https://en.wikipedia.org/wiki/The_Transformers_(TV_series),,TV,1984,1,,0,15,,,,
+ID-069,Transformers Toy Line,https://en.wikipedia.org/wiki/Transformers:_Generation_1,,Toy,1980,1,,0,15,,,,
+ID-070,Creed III,https://en.wikipedia.org/wiki/Creed_III,,Movie,2023,0,Sequel,0,16,156248615.00,275300000.00,75000000.00,200300000.00
+ID-071,Creed II,https://en.wikipedia.org/wiki/Creed_II,,Movie,2018,0,Sequel,0,16,115715889.00,214200000.00,50000000.00,164200000.00
+ID-072,Creed,https://en.wikipedia.org/wiki/Creed_(film),,Movie,2015,0,Sequel,0,16,109778883.00,173600000.00,37000000.00,136600000.00
+ID-073,Rocky Balboa,https://en.wikipedia.org/wiki/Rocky_Balboa,,Movie,2006,0,Sequel,0,16,70270943.00,155900000.00,24000000.00,131900000.00
+ID-074,Rocky V,https://en.wikipedia.org/wiki/Rocky_V,,Movie,1990,0,Sequel,0,16,40946358.00,120000000.00,42000000.00,78000000.00
+ID-075,Rocky IV,https://en.wikipedia.org/wiki/Rocky_IV,,Movie,1985,0,Sequel,0,16,127873716.00,300500000.00,31000000.00,269500000.00
+ID-076,Rocky III,https://en.wikipedia.org/wiki/Rocky_III,,Movie,1982,0,Sequel,0,16,125049125.00,270000000.00,17000000.00,253000000.00
+ID-077,Rocky II,https://en.wikipedia.org/wiki/Rocky_II,,Movie,1979,0,Sequel,0,16,85182160.00,85200000.00,7000000.00,78200000.00
+ID-078,Rocky,https://en.wikipedia.org/wiki/Rocky,,Movie,1976,1,,0,16,117235147.00,225300000.00,1000000.00,224300000.00
+ID-079,Elemental,https://en.wikipedia.org/wiki/Elemental_(2023_film),,Movie,2023,1,,0,17,154426697.00,496000000.00,200000000.00,296000000.00
+ID-080,Fast X,https://en.wikipedia.org/wiki/Fast_X,,Movie,2023,0,Sequel,0,18,146126015.00,704709660.00,340000000.00,364709660.00
+ID-081,F9,https://en.wikipedia.org/wiki/F9_(film),,Movie,2021,0,Sequel,0,18,173005945.00,726229501.00,200000000.00,526229501.00
+ID-082,Hobbs & Shaw,https://en.wikipedia.org/wiki/Hobbs_%26_Shaw,,Movie,2019,0,Sequel,0,18,173956935.00,760098996.00,200000000.00,560098996.00
+ID-083,The Fate of the Furious,https://en.wikipedia.org/wiki/The_Fate_of_the_Furious,,Movie,2017,0,Sequel,0,18,226008385.00,1236000000.00,250000000.00,986000000.00
+ID-084,Furious 7,https://en.wikipedia.org/wiki/Furious_7,,Movie,2015,0,Sequel,0,18,353007020.00,1515400000.00,190000000.00,1325400000.00
+ID-085,Fast & Furious 6,https://en.wikipedia.org/wiki/Fast_%26_Furious_6,,Movie,2013,0,Sequel,0,18,238679850.00,788700000.00,160000000.00,628700000.00
+ID-086,Fast Five,https://en.wikipedia.org/wiki/Fast_Five,,Movie,2011,0,Sequel,0,18,209837675.00,626100000.00,125000000.00,501100000.00
+ID-087,Fast & Furious,https://en.wikipedia.org/wiki/Fast_%26_Furious_(2009_film),,Movie,2009,0,Sequel,0,18,155064265.00,363164265.00,85000000.00,278164265.00
+ID-088,Tokyo Drift,https://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift,,Movie,2006,0,Sequel,0,18,62514415.00,158964610.00,85000000.00,73964610.00
+ID-089,2 Fast 2 Furious,https://en.wikipedia.org/wiki/2_Fast_2_Furious,,Movie,2003,0,Sequel,0,18,127154901.00,236350661.00,76000000.00,160350661.00
+ID-090,The Fast and the Furious,https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(2001_film),,Movie,2001,1,,0,18,144745925.00,207283925.00,38000000.00,169283925.00
+ID-091,Five Nights at Freddy’s,https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(film),,Movie,2023,0,Adaptation,0,19,137275620.00,294803785.00,20000000.00,274803785.00
+ID-092,Five Nights at Freddy's Game,https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(video_game),,Game,2014,1,,0,19,,,,
+ID-093,Wonka,https://en.wikipedia.org/wiki/Wonka_(film),,Movie,2023,0,Sequel,0,20,133129902.00,632302312.00,125000000.00,507302312.00
+ID-094,Willy Wonka & the Chocolate Factory,https://en.wikipedia.org/wiki/Willy_Wonka_%26_the_Chocolate_Factory,,Movie,1971,0,Adaptation,0,20,573368.00,4000000.00,3000000.00,1000000.00
+ID-095,Charlie and the Chocolate Factory Novel,https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory,,Book,1964,1,,0,20,,,,
+ID-096,Puss in Boots: The Last Wish,https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish,,Movie,2023,0,Sequel,0,21,130425380.00,484700000.00,90000000.00,394700000.00
+ID-097,Puss in Boots,https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film),,Movie,2011,0,Sequel,0,21,149260504.00,554987477.00,130000000.00,424987477.00
+ID-098,Shrek Forever After,https://en.wikipedia.org/wiki/Shrek_Forever_After,,Movie,2010,0,Sequel,0,21,238736787.00,752600867.00,165000000.00,587600867.00
+ID-099,Shrek the Third,https://en.wikipedia.org/wiki/Shrek_the_Third,,Movie,2007,0,Sequel,0,21,444854717.00,813367380.00,160000000.00,653367380.00
+ID-100,Shrek 2,https://en.wikipedia.org/wiki/Shrek_2,,Movie,2004,0,Sequel,0,21,444854717.00,932339342.00,150000000.00,782339342.00
+ID-101,Shrek,https://en.wikipedia.org/wiki/Shrek,,Movie,2001,0,Adaptation,0,21,268349831.00,488628188.00,60000000.00,428628188.00
+ID-102,Shrek!,https://en.wikipedia.org/wiki/Shrek!,,Book,1990,1,,0,21,,,,
+ID-103,Puss in Boots Fairytale,https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film),,Fairytale,1550,1,,0,21,,,,
+ID-104,Teenage Mutant Ninja Turtles: Mutant Mayhem,https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Mutant_Mayhem,,Movie,2023,0,Remake,0,22,118700272.00,180000000.00,75000000.00,105000000.00
+ID-105,Teenage Mutant Ninja Turtles (1990),https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1990_film),,Movie,1990,0,Remake,0,22,135384756.00,201965915.00,13500000.00,188465915.00
+ID-106,Teenage Mutant Ninja Turtles Comic Series,https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles,,Comic,1983,1,,0,22,,,,
+ID-107,Scream VI,https://en.wikipedia.org/wiki/Scream_VI,,Movie,2023,0,Sequel,0,23,108391107.00,169000000.00,35000000.00,134000000.00
+ID-108,Scream (2022),https://en.wikipedia.org/wiki/Scream_(2022_film),,Movie,2022,0,Sequel,0,23,81641405.00,137700000.00,24000000.00,113700000.00
+ID-109,Scream 4,https://en.wikipedia.org/wiki/Scream_4,,Movie,2011,0,Sequel,0,23,38180928.00,97200000.00,40000000.00,57200000.00
+ID-110,Scream 3,https://en.wikipedia.org/wiki/Scream_3,,Movie,2000,0,Sequel,0,23,89143175.00,161800000.00,40000000.00,121800000.00
+ID-111,Scream 2,https://en.wikipedia.org/wiki/Scream_2,,Movie,1997,0,Sequel,0,23,101363301.00,172400000.00,24000000.00,148400000.00
+ID-112,Scream (1996),https://en.wikipedia.org/wiki/Scream_(1996_film),,Movie,1996,1,,0,23,103046663.00,173100000.00,14000000.00,159100000.00
+ID-113,The Flash,https://en.wikipedia.org/wiki/The_Flash_(film),,Movie,2023,0,Adaptation,0,24,108167507.00,271333313.00,220000000.00,51333313.00
+ID-114,Flash (1956) Comic Series,https://en.wikipedia.org/wiki/Flash_(Barry_Allen),,Comic,1956,0,,0,24,,,,
+ID-115,Flash Comics,https://en.wikipedia.org/wiki/Flash_Comics,,Comic,1940,1,,0,24,,,,
+ID-116,DC Extended Universe,https://en.wikipedia.org/wiki/DC_Extended_Universe,,CU,-1,1,,0,24,,,,
+ID-117,Trolls Band Together,https://en.wikipedia.org/wiki/Trolls_Band_Together,,Movie,2023,0,Sequel,0,25,97540205.00,207318137.00,95000000.00,112318137.00
+ID-118,Trolls World Tour,https://en.wikipedia.org/wiki/Trolls_World_Tour,,Movie,2020,0,Sequel,0,25,450000.00,49276818.00,90000000.00,-40723182.00
+ID-119,Trolls,https://en.wikipedia.org/wiki/Trolls_(film),,Movie,2016,0,Adaptation,0,25,154174089.00,347337803.00,125000000.00,222337803.00
+ID-120,Trolls Toy Line,https://en.wikipedia.org/wiki/Troll_doll,,Toy,1959,1,,0,25,,,,
+ID-121,M3GAN,https://en.wikipedia.org/wiki/M3GAN,,Movie,2023,1,,0,26,95159005.00,179960167.00,12000000.00,167960167.00
+ID-122,Dungeons & Dragons: Honor Among Thieves,https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves,,Movie,2023,0,Adaptation,0,27,93549650.00,208200000.00,151000000.00,57200000.00
+ID-123,Forgotten Realms Setting,https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Adventures_in_the_Forgotten_Realms,,Game,1987,0,,0,27,,,,
+ID-124,Dungeons & Dragons,https://en.wikipedia.org/wiki/Dungeons_%26_Dragons,,Game,1974,1,,0,27,,,,
+ID-125,The Equalizer 3,https://en.wikipedia.org/wiki/The_Equalizer_3,,Movie,2023,0,Sequel,0,28,92373751.00,190000000.00,70000000.00,120000000.00
+ID-126,The Equalizer 2,https://en.wikipedia.org/wiki/The_Equalizer_2,,Movie,2018,0,Sequel,0,28,102084362.00,190400157.00,62000000.00,128400157.00
+ID-127,The Equalizer,https://en.wikipedia.org/wiki/The_Equalizer_3,,Movie,2014,0,Adaptation,0,28,101530738.00,192330738.00,55000000.00,137330738.00
+ID-128,The Equalizer TV Series,https://en.wikipedia.org/wiki/The_Equalizer_(1985_TV_series),,TV,1985,1,,0,28,,,,
+ID-129,The Nun II,https://en.wikipedia.org/wiki/The_Nun_II,,Movie,2023,0,Sequel,0,29,86270590.00,268100000.00,38500000.00,229600000.00
+ID-130,The Conjuring: The Devil Made Me Do It,https://en.wikipedia.org/wiki/The_Conjuring:_The_Devil_Made_Me_Do_It,,Movie,2021,0,Sequel,0,29,65631050.00,206400000.00,39000000.00,167400000.00
+ID-131,Annabelle Comes Home,https://en.wikipedia.org/wiki/Annabelle_Comes_Home,,Movie,2019,0,Sequel,0,29,74152591.00,231300000.00,30000000.00,201300000.00
+ID-132,The Nun,https://en.wikipedia.org/wiki/The_Nun,,Movie,2018,0,Sequel,0,29,117481222.00,366082797.00,22000000.00,344082797.00
+ID-133,Annabelle: Creation,https://en.wikipedia.org/wiki/Annabelle:_Creation,,Movie,2017,0,Sequel,0,29,102092201.00,306500000.00,15000000.00,291500000.00
+ID-134,The Conjuring 2,https://en.wikipedia.org/wiki/The_Conjuring_2,,Movie,2016,0,Sequel,0,29,102516140.00,321800000.00,40000000.00,281800000.00
+ID-135,Annabelle,https://en.wikipedia.org/wiki/Annabelle_(film),,Movie,2014,0,Sequel,0,29,84284252.00,257000000.00,6500000.00,250500000.00
+ID-136,The Conjuring,https://en.wikipedia.org/wiki/The_Conjuring,,Movie,2013,0,Adaptation,1,29,137446368.00,320400000.00,13000000.00,307400000.00
+ID-137,The Published Investigations of Ed and Lorraine Warren,https://en.wikipedia.org/wiki/Ed_and_Lorraine_Warren,,Life,1989,1,,1,29,,,,
+ID-138,The Marvels,https://en.wikipedia.org/wiki/The_Marvels,,Movie,2023,0,Sequel,0,30,84479155.00,207089999.00,274800000.00,-67710001.00
+ID-139,Captain Marvel,https://en.wikipedia.org/wiki/Captain_Marvel_(film),,Movie,2019,0,Adaptation,0,30,426829839.00,1131416446.00,152000000.00,979416446.00
+ID-140,Ms. Marvel TV Series,https://en.wikipedia.org/wiki/Ms._Marvel_(miniseries),,TV,2022,0,,0,30,,,,
+ID-141,Ms. Marvel (Kamala Khan),https://en.wikipedia.org/wiki/Kamala_Khan,,Comic,2014,0,,0,30,,,,
+ID-142,Generations: The Marvels Comic Issue,https://en.wikipedia.org/wiki/Generations_(Marvel_Comics),,Comic,2017,0,,0,30,,,,
+ID-143,Captain Marvel Original Comic Series,https://en.wikipedia.org/wiki/Captain_Marvel_(Marvel_Comics),,Comic,1968,1,,0,30,,,,
+ID-144,Meg 2: The Trench,https://en.wikipedia.org/wiki/Meg_2:_The_Trench,,Movie,2023,0,Sequel,0,31,82633033.00,384056482.00,129000000.00,255056482.00
+ID-145,The Meg,https://en.wikipedia.org/wiki/The_Meg,,Movie,2018,0,Adaptation,0,31,145522784.00,530517320.00,150000000.00,380517320.00
+ID-146,The Trench Book,https://en.wikipedia.org/wiki/The_Trench_(novel),,Book,1999,0,,0,31,,,,
+ID-147,Meg: A Novel of Deep Terror,https://en.wikipedia.org/wiki/Meg:_A_Novel_of_Deep_Terror,,Book,1997,1,,0,31,,,,
+ID-148,Insidious: The Red Door,https://en.wikipedia.org/wiki/Insidious:_The_Red_Door,,Movie,2023,0,Sequel,0,32,82156962.00,185582093.00,16000000.00,169582093.00
+ID-149,Insidious: The Last Key,https://en.wikipedia.org/wiki/Insidious:_The_Last_Key,,Movie,2018,0,Sequel,0,32,82156962.00,167885588.00,10000000.00,157885588.00
+ID-150,Insidious: Chapter 3,https://en.wikipedia.org/wiki/Insidious:_Chapter_3,,Movie,2015,0,Sequel,0,32,52218558.00,112983889.00,10000000.00,102983889.00
+ID-151,Insidious: Chapter 2,https://en.wikipedia.org/wiki/Insidious:_Chapter_2,,Movie,2013,0,Sequel,0,32,83586447.00,161000000.00,5000000.00,156000000.00
+ID-152,Insidious,https://en.wikipedia.org/wiki/Insidious_(film),,Movie,2011,1,,0,32,54009150.00,99870886.00,1500000.00,98370886.00
+ID-153,Aquaman and the Lost Kingdom,https://en.wikipedia.org/wiki/Aquaman_and_the_Lost_Kingdom,,Movie,2023,0,Sequel,0,33,76469713.00,434381226.00,205000000.00,229381226.00
+ID-154,Aquaman,https://en.wikipedia.org/wiki/Aquaman_(film),,Movie,2018,0,Adaptation,0,33,335104314.00,1152028393.00,160000000.00,992028393.00
+ID-155,Aquaman Comic Series,https://en.wikipedia.org/wiki/Aquaman,,Comic,1941,1,,0,33,,,,
+ID-156,Blue Beetle,https://en.wikipedia.org/wiki/Blue_Beetle_(film),,Movie,2023,0,Adaptation,0,34,72541501.00,130788072.00,104000000.00,26788072.00
+ID-157,Blue Beetle (Jaime Reyes),https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes),,Comic,2006,1,,0,34,,,,
+ID-158,Haunted Mansion,https://en.wikipedia.org/wiki/Haunted_Mansion_(2023_film),,Movie,2023,0,Remake,0,35,67653287.00,117300000.00,157800000.00,-40500000.00
+ID-159,Haunted Mansion (2003),https://en.wikipedia.org/wiki/The_Haunted_Mansion_(2003_film),,Movie,2003,0,Adaptation,0,35,67653287.00,182290266.00,90000000.00,92290266.00
+ID-160,Haunted Mansion Park Ride,https://en.wikipedia.org/wiki/The_Haunted_Mansion,,Park Ride,1969,1,,0,35,,,,
+ID-161,Evil Dead Rise,https://en.wikipedia.org/wiki/Evil_Dead_Rise,,Movie,2023,0,Sequel,0,36,67356372.00,146700000.00,15000000.00,131700000.00
+ID-162,Evil Dead,https://en.wikipedia.org/wiki/Evil_Dead_(2013_film),,Movie,2013,0,Sequel,0,36,54239856.00,97542952.00,17000000.00,80542952.00
+ID-163,Evil Dead II,https://en.wikipedia.org/wiki/Evil_Dead_II,,Movie,1987,0,Sequel,0,36,5923044.00,10900000.00,3500000.00,7400000.00
+ID-164,Army of Darkness,https://en.wikipedia.org/wiki/Army_of_Darkness,,Movie,1993,0,Sequel,0,36,11502976.00,21502976.00,11000000.00,10502976.00
+ID-165,The Evil Dead,https://en.wikipedia.org/wiki/The_Evil_Dead,,Movie,1981,1,,0,36,2400000.00,29612367.00,350000.00,29262367.00
+ID-166,Killers of the Flower Moon,https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(film),,Movie,2023,0,Adaptation,1,37,67292161.00,156922344.00,200000000.00,-43077656.00
+ID-167,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI Book,https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(book),,Book,2017,0,,1,37,,,,
+ID-168,The Osage Murders,https://en.wikipedia.org/wiki/Osage_Indian_murders,,Life,1918,1,,1,37,,,,
+ID-169,The Exorcist: Believer,https://en.wikipedia.org/wiki/The_Exorcist:_Believer,,Movie,2023,0,Sequel,0,38,65537395.00,134800000.00,30000000.00,104800000.00
+ID-170,Dominion,https://en.wikipedia.org/wiki/Dominion:_Prequel_to_the_Exorcist,,Movie,2005,0,Sequel,0,38,251495.00,252000.00,30000000.00,-29748000.00
+ID-171,Exorcist: The Beginning,https://en.wikipedia.org/wiki/Exorcist:_The_Beginning,,Movie,2004,0,Sequel,0,38,41821986.00,78000586.00,80000000.00,-1999414.00
+ID-172,The Exorcist III,https://en.wikipedia.org/wiki/The_Exorcist_III,,Movie,1990,0,Sequel,0,38,26098824.00,39000000.00,9300000.00,29700000.00
+ID-173,The Exorcist II: The Heretic,https://en.wikipedia.org/wiki/Exorcist_II:_The_Heretic,,Movie,1977,0,Sequel,0,38,30749142.00,30800000.00,14000000.00,16800000.00
+ID-174,The Exorcist,https://en.wikipedia.org/wiki/The_Exorcist,,Movie,1973,0,Adaptation,0,38,233005644.00,441400000.00,12000000.00,429400000.00
+ID-175,The Exorcist Book,https://en.wikipedia.org/wiki/The_Exorcist_(novel),,Book,1971,1,,0,38,,,,
+ID-176,PAW Patrol: The Mighty Movie,https://en.wikipedia.org/wiki/PAW_Patrol:_The_Mighty_Movie,,Movie,2023,0,Sequel,0,39,65343309.00,202231360.00,30000000.00,172231360.00
+ID-177,Paw Patrol: The Movie,https://en.wikipedia.org/wiki/PAW_Patrol:_The_Movie,,Movie,2021,0,Adaptation,0,39,40127371.00,144327371.00,26000000.00,118327371.00
+ID-178,Paw Patrol TV Series,https://en.wikipedia.org/wiki/PAW_Patrol,,TV,2013,1,,0,39,,,,
+ID-179,Cocaine Bear,https://en.wikipedia.org/wiki/Cocaine_Bear,,Movie,2023,0,,1,40,64670240.00,87649532.00,32500000.00,55149532.00
+ID-180,Cocaine Bear incident of 1985,https://en.wikipedia.org/wiki/Cocaine_Bear_(bear),,Life,1985,1,,1,40,,,,
+ID-181,A Man Called Otto,https://en.wikipedia.org/wiki/A_Man_Called_Otto,,Movie,2023,0,Reimagining,0,41,64228358.00,108961677.00,50000000.00,58961677.00
+ID-182,A Man Called Ove Film,https://en.wikipedia.org/wiki/A_Man_Called_Ove_(film),,Movie,2015,0,Adaptation,0,41,3479315.00,30692889.00,300000.00,30392889.00
+ID-183,A Man Called Ove Book,https://en.wikipedia.org/wiki/A_Man_Called_Ove_(novel),,Book,2012,1,,0,41,,,,
+ID-184,Wish,https://en.wikipedia.org/wiki/Wish_(film),,Movie,2023,1,,0,42,60609147.00,251720820.00,175000000.00,76720820.00
+ID-185,Napoleon,https://en.wikipedia.org/wiki/Napoleon_(2023_film),,Movie,2023,0,,1,43,60534093.00,220597098.00,165000000.00,55597098.00
+ID-186,Life of Napoleon Bonaparte,https://en.wikipedia.org/wiki/Napoleon,,Life,1769,1,,1,43,,,,
+ID-187,Shazam! Fury of the Gods,https://en.wikipedia.org/wiki/Shazam!_Fury_of_the_Gods,,Movie,2023,0,Sequel,0,44,57721819.00,134038006.00,125000000.00,9038006.00
+ID-188,Shazam!,https://en.wikipedia.org/wiki/Shazam!_(film),,Movie,2019,0,Adaptation,0,44,140480049.00,367799011.00,80000000.00,287799011.00
+ID-189,Shazam/Captain Marvel Comic Character,https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics),,Comic,1939,1,,0,44,,,,
+ID-190,Migration,https://en.wikipedia.org/wiki/Migration_(2023_film),,Movie,2023,1,,0,45,54103955.00,297404638.00,72000000.00,225404638.00
+ID-191,Saw X,https://en.wikipedia.org/wiki/Saw_X,,Movie,2023,0,Sequel,0,46,53607898.00,111822402.00,13000000.00,98822402.00
+ID-192,Saw,https://en.wikipedia.org/wiki/Saw_(film),,Movie,2004,1,,0,46,56000369.00,103911669.00,1200000.00,102711669.00
+ID-193,Saw II,https://en.wikipedia.org/wiki/Saw_II,,Movie,2005,0,Sequel,0,46,87039965.00,147748505.00,4000000.00,143748505.00
+ID-194,Saw III,https://en.wikipedia.org/wiki/Saw_III,,Movie,2006,0,Sequel,0,46,80238724.00,164876498.00,10000000.00,154876498.00
+ID-195,Saw IV,https://en.wikipedia.org/wiki/Saw_IV,,Movie,2007,0,Sequel,0,46,63300095.00,139352633.00,10000000.00,129352633.00
+ID-196,Saw V,https://en.wikipedia.org/wiki/Saw_V,,Movie,2008,0,Sequel,0,46,56746769.00,113864059.00,10800000.00,103064059.00
+ID-197,Saw VI,https://en.wikipedia.org/wiki/Saw_VI,,Movie,2009,0,Sequel,0,46,27693292.00,68234154.00,11000000.00,57234154.00
+ID-198,Saw 3D,https://en.wikipedia.org/wiki/Saw_3D,,Movie,2010,0,Sequel,0,46,45710178.00,136435701.00,20000000.00,116435701.00
+ID-199,Jigsaw,https://en.wikipedia.org/wiki/Jigsaw_(2017_film),,Movie,2017,0,Sequel,0,46,38052832.00,102952888.00,10000000.00,92952888.00
+ID-200,Spiral,https://en.wikipedia.org/wiki/Spiral_(2021_film),,Movie,2021,0,Sequel,0,46,23216862.00,40618920.00,20000000.00,20618920.00
+ID-201,AIR,https://en.wikipedia.org/wiki/Air_(2023_film),,Movie,2023,0,,1,47,52460106.00,90100000.00,80000000.00,10100000.00
+ID-202,Based on the origins of Air Jordan Brand,https://en.wikipedia.org/wiki/Air_Jordan,,Life,1984,0,,1,47,,,,
+ID-203,Jesus Revolution,https://en.wikipedia.org/wiki/Jesus_Revolution,,Movie,2023,0,Adaptation,1,48,52102987.00,52300000.00,15000000.00,37300000.00
+ID-204,Jesus Revolution Book,https://en.wikipedia.org/wiki/Jesus_Revolution,,Book,2018,0,,1,48,,,,
+ID-205,Life of Greg Laurie,https://en.wikipedia.org/wiki/Greg_Laurie,,Life,1952,1,,1,48,,,,
+ID-206,No Hard Feelings,https://en.wikipedia.org/wiki/No_Hard_Feelings_(2023_film),,Movie,2023,1,,0,49,50452282.00,83000000.00,45000000.00,38000000.00
+ID-207,Talk To Me,https://en.wikipedia.org/wiki/Talk_to_Me_(2022_film),,Movie,2023,1,,0,50,48299436.00,92000000.00,4500000.00,87500000.00
+ID-208,Spiderverse Film Series,,,Series,,0,,0,2,,,,
+ID-209,Guardians of the Galaxy Film Series,,,Series,,0,,0,4,,,,
+ID-210,Ant-Man Film Series,,,Series,,0,,0,8,,,,
+ID-211,John Wick Series,,,Series,,1,,0,9,,,,
+ID-212,Indiana Jones Film Series,,,Series,,1,,0,12,,,,
+ID-213,Mission: Impossible Film Series,,,Series,,0,,0,13,,,,
+ID-214,The Hunger Games Movie Series,,,Series,,0,,0,14,,,,
+ID-215,Transformers Film Series,,,Series,,0,,0,15,,,,
+ID-216,Rocky Film Series,,,Series,,1,,0,15,,,,
+ID-217,Fast & Furious Film Series,,,Series,,1,,0,18,,,,
+ID-218,Scream Film Series,,,Series,,1,,0,23,,,,
+ID-219,Trolls Film Series,,,Series,,0,,0,25,,,,
+ID-220,The Equalizer Film Series,,,Series,,0,,0,28,,,,
+ID-221,The Conjuring Film Series,,,Series,,0,,1,29,,,,
+ID-222,Captain Marvel Film Series,,,Series,,0,,0,30,,,,
+ID-223,The Meg Film Series,,,Series,,0,,0,31,,,,
+ID-224,Insidious Film Series,,,Series,,1,,0,32,,,,
+ID-225,Aquaman Film Series,,,Series,,0,,0,33,,,,
+ID-226,The Evil Dead Film Series,,,Series,,1,,0,36,,,,
+ID-227,The Exorcist Film Series,,,Series,,0,,0,38,,,,
+ID-228,Paw Patrol Film Series,,,Series,,0,,0,39,,,,
+ID-229,Shazam Film Series,,,Series,,0,,0,44,,,,
+ID-230,Saw Film Series,,,Series,,1,,0,46,,,,
