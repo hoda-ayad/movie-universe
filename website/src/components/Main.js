@@ -42,9 +42,9 @@ function Main() {
                     Critics and viewers alike seemed baffled at this decision, which contradicted that of the Writers Guild of America to classify the film as having an original screenplay in their own awards.
                 </p>
 
-                <img src="/img/variety_headline.png" />
-                <img src="/img/washpost_headline.png" />
-                <img src="/img/ent_headline.png" />
+                <img src="%PUBLIC_URL%/img/variety_headline.png" />
+                <img src="%PUBLIC_URL%/img/washpost_headline.png" />
+                <img src="%PUBLIC_URL%/img/ent_headline.png" />
 
                 <p>
                     The WGA classifies screenplays as non-original when based on previously published material, including sequels and remakes. The Guild sees screenplays based on nonfiction material that doesn’t contain a narrative as original. This means that Gerwig’s Barbie, being based on a doll brand but employing an original narrative, would be an original screenplay. While they do not publish their adapted screenplay guidelines, the Academy seems to disagree. 
@@ -163,7 +163,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                        <img src='/img/mi_performance.png'/>
+                        <img src='%PUBLIC_URL%/img/mi_performance.png'/>
                     </div>
                 </div>
 
@@ -175,7 +175,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/ff_performance.png'/>
+                         <img src='%PUBLIC_URL%/img/ff_performance.png'/>
                     </div>
                 </div>
 
@@ -187,7 +187,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/ij_performance.png'/>
+                         <img src='%PUBLIC_URL%/img/ij_performance.png'/>
                     </div>
                 </div>
 
@@ -203,7 +203,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/yearlytop50.png'/>
+                         <img src='%PUBLIC_URL%/img/yearlytop50.png'/>
                     </div>
                 </div>
 
