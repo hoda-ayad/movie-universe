@@ -22,7 +22,7 @@ function Main() {
                 transition={{ opacity: { duration: 2 }, x: { duration: 1.5 } }}
             >
                 <h1 className="text-6xl font-bold mb-4 pt-40 pl-3">Movie Universe Draft 1</h1>
-                <p className='text-2xl italic'>by Assistant Professor Melanie Walsh and Hoda Ayad, University of Washington iSchool </p>
+                <p className='text-2xl italic'>by Prof. Melanie Walsh and Hoda Ayad, University of Washington iSchool </p>
             </motion.div>
             <motion.div
                 initial={{ opacity: 0 }}
@@ -31,27 +31,27 @@ function Main() {
                 className="my-10"
             >
                 <p className="">
-                    The 2024 awards season, culminating in the 96th Academy Awards was filled with anticipation for the performance of massive summer blockbusters Barbie and Oppenheimer. Nominations were announced, Oppenheimer for “Best Picture”,  “Director”, “Actor”, “Supporting Actor” among 9 others and Barbie for “Best Picture”, “Supporting Actor”, “Product Design” and “Adapted Screenplay”
+                    The 2024 awards season, culminating in the 96th Academy Awards was filled with anticipation for the performance of massive summer blockbusters <em>Barbie</em> and <em>Oppenheimer</em>. Nominations were announced, <em>Oppenheimer</em> for “Best Picture”,  “Director”, “Actor”, “Supporting Actor” among 9 others and <em>Barbie</em> for “Best Picture”, “Supporting Actor”, “Product Design” and “Adapted Screenplay”
                 </p>
           
                 <p>
-                    Wait… “Best Adapted Screenplay”? Wasn’t Barbie an original story? 
+                    Wait… “Best Adapted Screenplay”? Wasn’t <em>Barbie</em> an original story? 
                 </p>
                
                 <p>
                     Critics and viewers alike seemed baffled at this decision, which contradicted that of the Writers Guild of America to classify the film as having an original screenplay in their own awards.
                 </p>
 
-                <img src="/img/variety_headline.png" />
-                <img src="/img/washpost_headline.png" />
-                <img src="/img/ent_headline.png" />
+                <img src={process.env.PUBLIC_URL + "/img/variety_headline.png"} />
+                <img src={process.env.PUBLIC_URL + "/img/washpost_headline.png"} />
+                <img src={process.env.PUBLIC_URL + "/img/ent_headline.png"} />
 
                 <p>
-                    The WGA classifies screenplays as non-original when based on previously published material, including sequels and remakes. The Guild sees screenplays based on nonfiction material that doesn’t contain a narrative as original. This means that Gerwig’s Barbie, being based on a doll brand but employing an original narrative, would be an original screenplay. While they do not publish their adapted screenplay guidelines, the Academy seems to disagree. 
+                    The WGA classifies screenplays as non-original when based on previously published material, including sequels and remakes. The Guild sees screenplays based on nonfiction material that doesn’t contain a narrative as original. This means that Gerwig’s <em>Barbie</em>, being based on a doll brand but employing an original narrative, would be an original screenplay. While they do not publish their adapted screenplay guidelines, the Academy seems to disagree. 
                 </p>
                 
                 <p>
-                    Barbie’s history with film adaptations is a rich one. In the early 2000s, Mattel began releasing digitally animated childrens’ films that would later be lovingly coined the “Barbie Cinematic Universe”. For many born in the late ‘90s, early ‘00s, the Barbie movies were a cornerstone of their childhood film repertoire. Despite the fact that Gerwig’s Barbie has no canonical connection to these films, their relevance to the success of not only this one but the overall brand is undeniable.
+                    Barbie’s history with film adaptations is a rich one. In the early 2000s, Mattel began releasing digitally animated childrens’ films that would later be lovingly coined the “Barbie Cinematic Universe”. For many born in the late ‘90s, early ‘00s, the Barbie movies were a cornerstone of their childhood film repertoire. Despite the fact that Gerwig’s <em>Barbie</em> has no canonical connection to these films, their relevance to the success of not only this one but the overall brand is undeniable.
                 </p>
 
                 <p>
@@ -163,7 +163,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                        <img src='/img/mi_performance.png'/>
+                        <img src={process.env.PUBLIC_URL + "/img/mi_performance.png"} />
                     </div>
                 </div>
 
@@ -175,7 +175,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/ff_performance.png'/>
+                         <img src={process.env.PUBLIC_URL + "/img/ff_performance.png"}/>
                     </div>
                 </div>
 
@@ -187,7 +187,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/ij_performance.png'/>
+                         <img src={process.env.PUBLIC_URL + "/img/ij_performance.png"}/>
                     </div>
                 </div>
 
@@ -203,7 +203,7 @@ function Main() {
                     </div>
     
                     <div className='container right-col'>
-                         <img src='/img/yearlytop50.png'/>
+                         <img src={process.env.PUBLIC_URL + "/img/img/yearlytop50.png"}/>
                     </div>
                 </div>
 
@@ -262,13 +262,13 @@ function Main() {
                 </p>
                 <div className='p-6'>
                     <p className='italic text-2xl'>
-                        There’s no reason to believe that this type of caution will pay off. The supposed sure shot of IP is currently misfiring: in 2023, Disney’s The Marvels fell more than $64 million short of breaking even, and its Indiana Jones sequel drastically underperformed. The Flash, for Warner Bros. Discovery, lost millions, and the company’s Shazam! Fury of the Gods flopped. (In the case of Barbie —the loudest exception—the writers, Greta Gerwig and Noah Baumbach, were given extraordinary free rein.) As Zack Stentz put it, “Hollywood is based on giving audiences what they might not know. Any attempt to drive risk out of that process is sooner or later doomed to failure.” His words played off an old adage by the screenwriter William Goldman. “Nobody knows anything,” he wrote. “Not one person in the entire motion picture field knows for certain what’s going to work.” But investments in the alchemy of the creative process do not perform well in quarterly reports.
+                        There’s no reason to believe that this type of caution will pay off. The supposed sure shot of IP is currently misfiring: in 2023, Disney’s <em>The Marvels</em> fell more than $64 million short of breaking even, and its Indiana Jones sequel drastically underperformed. <em>The Flash</em>, for Warner Bros. Discovery, lost millions, and the company’s <em>Shazam! Fury of the Gods</em> flopped. (In the case of <em>Barbie</em> —the loudest exception—the writers, Greta Gerwig and Noah Baumbach, were given extraordinary free rein.) As Zack Stentz put it, “Hollywood is based on giving audiences what they might not know. Any attempt to drive risk out of that process is sooner or later doomed to failure.” His words played off an old adage by the screenwriter William Goldman. “Nobody knows anything,” he wrote. “Not one person in the entire motion picture field knows for certain what’s going to work.” But investments in the alchemy of the creative process do not perform well in quarterly reports.
                     </p>
                    
                 </div>
 
                 <p>
-                    It’s unlikely that we’ll ever fully abandon the holy grail of IP. These films may be failing to meet expectations, but the original ones haven’t caught up. As Bessner points out, the films that were most successful in 2023 combined the appeal of existing works with (ample?) creative freedom from Gerwig and Nolan. 
+                    It’s unlikely that we’ll ever fully abandon the holy grail of IP. These films may be failing to meet expectations, but the original ones haven’t caught up. As Bessner points out, the films that were most successful in 2023 combined the appeal of existing works with considerable creative freedom for Gerwig and Nolan. 
                 </p>
 
                 <p>
